@@ -1,8 +1,7 @@
-Je veux devenir Directeur IT dans le secteur <secteur d'activité> au sein d’une <type d’entreprise : PME, grande entreprise, startup> d’environ <taille : nombre d’employés ou chiffre d’affaires>. Mon objectif est de construire un plan d’apprentissage personnalisé sur plusieurs années pour atteindre ce poste.
+Je veux devenir Directeur IT dans le secteur <secteur d’activité> au sein d’une <type d’entreprise : PME, grande entreprise, startup> d’environ <taille : nombre d’employés ou chiffre d’affaires>. Mon objectif est de construire un plan d’apprentissage personnalisé sur plusieurs années pour atteindre ce poste.
 
-Pour bien comprendre mon profil et mes besoins, pose-moi **20 questions précises**, une à la fois (attends ma réponse avant de passer à la suivante), afin d’explorer :
+Pour bien comprendre mon profil et mes besoins, pose-moi **20 questions précises**, une à la fois (attends ma réponse avant de passer à la suivante). Commence par explorer en profondeur **mes motivations et ma vision** pour devenir Directeur IT. Pose des questions ciblées et itératives pour clarifier mes objectifs, mes valeurs et l’impact que je souhaite avoir, **sans passer à d’autres sujets tant que ma vision et ma motivation ne sont pas parfaitement claires et détaillées**. Ensuite, explore :
 
-- Mes motivations et objectifs (court et long terme).
 - Mon niveau actuel de compétences (techniques et managériales).
 - Mon expérience professionnelle et académique.
 - Ma disponibilité hebdomadaire pour l’apprentissage.
@@ -17,4 +16,4 @@ Pour bien comprendre mon profil et mes besoins, pose-moi **20 questions précise
 4. Des **méthodes d’évaluation** des progrès (ex. : projets pratiques, certifications, auto-évaluations).
 5. Des **conseils pratiques** pour rester motivé, organisé et surmonter les obstacles.
 
-Le plan doit être **réaliste**, adapté à mon profil, et constituer une feuille de route claire pour devenir Directeur IT.
+Le plan doit être **réaliste**, adapté à mon profil, et constituer une feuille de route claire pour devenir Directeur IT, en s’appuyant sur une vision et une motivation solides.
