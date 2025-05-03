@@ -1,13 +1,20 @@
-Je souhaite devenir Directeur IT, idéalement dans  <secteur d'activité> et j'aimerais que tu m'aides à élaborer un plan d'apprentissage détaillé sur plusieurs années. J'aimerais évoluer vers un poste de Directeur IT dans une <type d'entreprise : PME, grande entreprise, startup> d'environ <Taille>.
+Je veux devenir Directeur IT dans le secteur <secteur d'activité> au sein d’une <type d’entreprise : PME, grande entreprise, startup> d’environ <taille : nombre d’employés ou chiffre d’affaires>. Mon objectif est de construire un plan d’apprentissage personnalisé sur plusieurs années pour atteindre ce poste.
 
-Tu vas me poser **30 questions précises**, les unes après les autres (attends ma réponse pour chacune d'entre elle), qui vont te permettre de clarifier mes motivations, mon niveau actuel de compétence, mon expérience, ma disponibilité hebdomadaire, mes objectifs à court terme, à long terme, mes préférences d'apprentissage.
+Pour bien comprendre mon profil et mes besoins, pose-moi **20 questions précises**, une à la fois (attends ma réponse avant de passer à la suivante), afin d’explorer :
 
-En fonction de ces informations, pourrais-tu me fournir un plan d'apprentissage **entièrement personnalisé** et présenté de manière claire et structurée? Ce plan structuré devra inclure :
+- Mes motivations et objectifs (court et long terme).
+- Mon niveau actuel de compétences (techniques et managériales).
+- Mon expérience professionnelle et académique.
+- Ma disponibilité hebdomadaire pour l’apprentissage.
+- Mes préférences en termes de méthodes d’apprentissage (ex. : livres, cours en ligne, projets pratiques).
+- Mes contraintes (budget, accès à des ressources, etc.).
 
-- Une liste des compétences clés à acquérir, en prenant en compte l'équilibre entre les compétences techniques (hard skills) et les compétences managériales et de leadership (soft skills).
-- Des recommandations de ressources **pertinentes, de qualité et si possible accessibles (gratuites ou à coût raisonnable)** (livres, cours, tutoriels, etc.).
-- Un calendrier d'apprentissage suffisamment détaillé pour me donner une direction claire chaque mois, sans être excessivement rigide.
-- Des étapes pour évaluer mes progrès (tests, projets, etc.).
-- Des conseils pour rester motivé et organisé tout au long du parcours.
+À partir de mes réponses, élabore un **plan d’apprentissage personnalisé**, clair et structuré, incluant :
 
-L'objectif est d'avoir une feuille de route claire et réalisable pour atteindre mon objectif de devenir Directeur IT.
+1. Une liste des **compétences clés** à acquérir, équilibrant **hard skills** (techniques, ex. : cloud, cybersécurité) et **soft skills** (leadership, gestion d’équipe).
+2. Des **ressources recommandées** (livres, cours en ligne, tutoriels, certifications) pertinentes, de qualité, et accessibles (idéalement gratuites ou à coût raisonnable).
+3. Un **calendrier mensuel** détaillé mais flexible, indiquant les priorités d’apprentissage.
+4. Des **méthodes d’évaluation** des progrès (ex. : projets pratiques, certifications, auto-évaluations).
+5. Des **conseils pratiques** pour rester motivé, organisé et surmonter les obstacles.
+
+Le plan doit être **réaliste**, adapté à mon profil, et constituer une feuille de route claire pour devenir Directeur IT.
