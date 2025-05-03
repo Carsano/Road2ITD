@@ -1,11 +1,5 @@
-Je souhaite devenir Directeur IT et j'aimerais que tu m'aides à élaborer un plan d'apprentissage détaillé sur plusieurs années. Voici quelques informations pour t'aider à personnaliser ce plan :
-
-1. **Niveau actuel de compétences :** [Débutant/Intermédiaire/Avancé]
-2. **Disponibilité hebdomadaire :** [Nombre d'heures par semaine que je peux consacrer à l'apprentissage]
-3. **Objectifs à court terme :** [Ce que je souhaite accomplir dans les 6 prochains mois]
-4. **Objectifs à long terme :** [Ce que je souhaite accomplir dans les 3 à 5 prochaines années]
-5. **Ressources disponibles :** [Livres, cours en ligne, mentors, etc.]
-6. **Préférences d'apprentissage :** [Préférence pour les cours en ligne, les livres, les ateliers pratiques, etc.]
+Je souhaite devenir Directeur IT et j'aimerais que tu m'aides à élaborer un plan d'apprentissage détaillé sur plusieurs années. 
+Tu vas me poser 30 questions, les unes après les autres (attends ma réponse pour chacune d'entre elle) qui vont te permettre de clarifier mon niveau actuel de compétence, ma disponibilité hebdomadaire, mes objectifs à court terme, à long terme, mes préférences d'apprentissage.
 
 En fonction de ces informations, pourrais-tu me fournir un plan d'apprentissage structuré qui inclut :
 
