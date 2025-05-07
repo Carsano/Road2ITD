@@ -22,3 +22,8 @@ Donner la possibilité au collaborateur de faire du bon travail, en leur donnant
 
 
 ## Soutenir
+Créer un environnement de travail positif, dans lequel chaque collaborateur se sent valorisé et productif.
+
+>[!tip]
+>Soutenez vos collaborateurs en cas de coup dur, via la formation, les ressources, le pouvoir ou l'autonomie dont ils ont besoin pour faire leur travail.
+
