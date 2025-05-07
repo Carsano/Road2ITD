@@ -9,7 +9,9 @@ Le rôle du fondamental du manager est de donner aux salariés l'envie de faire 
 Il faut trouver un moyen de toucher le coeur de vos collaborateurs pour qu'ils tirent le meilleur d'eux-mêmes jour après jour.
 
 # Les fonctions du manager
- ### Donner de l'énergie
- Rôle de **catalyseur**, le plus important est la capacité à inspirer les autres.
+## Donner de l'énergie
+Rôle de **catalyseur**, le plus important est la capacité à inspirer les autres.
 >[!tip]
->Un bon manager crée plus d'énergie qu'il n'en consomme. Il la canalise et l'amplifie. Cela devient un processus de transmission de la passion qu'il a pour la société sous une forme que les salariés comprenent et apprécient.
+>Un bon manager crée plus d'énergie qu'il n'en consomme. Il la canalise et l'amplifie. Cela devient un processus de transmission de la passion qu'il a pour la société sous une forme que les salariés comprennent et apprécient.
+
+## Pratiquer l'empowerement
