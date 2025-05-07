@@ -27,3 +27,7 @@ Créer un environnement de travail positif, dans lequel chaque collaborateur se 
 >[!tip]
 >Soutenez vos collaborateurs en cas de coup dur, via la formation, les ressources, le pouvoir ou l'autonomie dont ils ont besoin pour faire leur travail.
 
+Pour cela il faut créer un environnement positif où les collaborateurs peuvent faire part de leurs idées et de leurs préoccupations, ils doivent y être encouragés.
+
+## Communiquer
+L'information est le fondement du pouvoir, l'évolution constante de la soc
