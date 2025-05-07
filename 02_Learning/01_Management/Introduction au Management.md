@@ -9,3 +9,5 @@ Le rôle du fondamental du manager est de donner aux salariés l'envie de faire 
 Il faut trouver un moyen de toucher le coeur de vos collaborateurs pour qu'ils tirent le meilleur d'eux-mêmes jour après jour.
 
 # Les fonctions du manager
+ ### Donner de l'énergie
+ Rôle de catalyz
