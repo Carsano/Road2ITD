@@ -15,3 +15,10 @@ Rôle de **catalyseur**, le plus important est la capacité à inspirer les autr
 >Un bon manager crée plus d'énergie qu'il n'en consomme. Il la canalise et l'amplifie. Cela devient un processus de transmission de la passion qu'il a pour la société sous une forme que les salariés comprennent et apprécient.
 
 ## Pratiquer l'empowerement
+Donner la possibilité au collaborateur de faire du bon travail, en leur donnant des responsabilités.
+
+>[!tip]
+>Le manage efficace consiste à optimiser les efforts de tous les membres d'une équipe en les orientant vers un but commun
+
+
+## Soutenir
