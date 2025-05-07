@@ -30,4 +30,11 @@ Créer un environnement de travail positif, dans lequel chaque collaborateur se 
 Pour cela il faut créer un environnement positif où les collaborateurs peuvent faire part de leurs idées et de leurs préoccupations, ils doivent y être encouragés.
 
 ## Communiquer
-L'information est le fondement du pouvoir, l'évolution constante de la soc
+L'information est le fondement du pouvoir, l'évolution constante de la société nécessite une communication immédiate.
+>[!tip]
+>Communiquer régulièrement sur les attentes et les objectifs permet de garder les collaborateurs informés.
+
+
+# Débuter en management
+## Observer et écouter
+Observer les bonnes pratiques et les mauvaises pratiques pour en tirer le plus d'avantages
