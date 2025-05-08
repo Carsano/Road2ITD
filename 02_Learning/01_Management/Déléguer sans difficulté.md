@@ -51,5 +51,10 @@ Donner l'autorité nécessaire au collaborateur pour accomplir la tâche sans se
 5. **Offrir son soutien**
 Identifier les ressources nécessaires à l'accomplissement de la tâche (formation, budget, conseil)
 6. **Obtenir un engagement**
-Checker que le c
+Checker que le collaborateur a bien compris et accepté sa mission. Il doit s'engager à les respecter.
+
+## Déléguer ou ne pas déléguer ?
+Fur et à mesure. tâches simples au début, puis plus complexe.
+### Tâches à déléguer
+- **Travail de détail** 
 
