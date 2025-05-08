@@ -40,5 +40,13 @@ Donc donner la capacité aux collaborateurs de se dépasser et d'évoluer dans l
 C'est le rôle du manager de partager une vision d'ensemble aux collaborateurs. En tenant ses collaborateurs à l'écart cela créé un climat défavorable et de manque de confiance.
 
 ## Les 6 étapes de la délégation
-### 1. Confier ma tâche
+1. **Confier ma tâche**
 Décrire en détail le résultat attendu et le délai à accorder.
+2. **Exposer le contexte.**
+Expliquer l'importance de la tâche et pourquoi elle doit être réalisée.
+3. **Fixer les critères d'évaluations**
+En donnant des critères 
+4. **Investir d'autorité**
+5. **Offrir son soutien**
+6. **Obtenir un engagement**
+
