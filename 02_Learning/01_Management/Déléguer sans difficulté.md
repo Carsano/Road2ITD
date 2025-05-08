@@ -74,4 +74,8 @@ La difficulté réside dans le fait de trouver un juste milieu entre suivi à la
 - Chaque collaborateur est unique et donc il faut **adapter son approche** 
 - Utiliser un système de suivi manuel ou informatique
 - Laisser la porte ouverte à la communication
+- **Veillez au respect des accords passés avec votre collaborateur.** Le manager doit comprendre pourquoi la tâche n'a pas été réalisée. Chacun doit assumer ses responsabilités.
+- Récompensez les performances qui comblent ou surpassent vos attentes et fournissez des conseils pour relever les performances insuffisantes.
+
+#### Lorsque
 
