@@ -29,4 +29,11 @@ La délégation et l'empowerement rendent les équipes plus efficaces, concentr�
 En passant manager, la reconnaissance ne passe plus par l'accomplissement de tâches isolées mais sur la capacité à atteindre un objectif en utilisant le potentiel des autres.
 
 ### La délégation réduit la flexibilité
-En ne déléguant pas, le manager se retrouve à gérer beaucoup de tâches plus les crises. En déléguant, le manager s'offre de la flexibilité pour gérer les situations de crise de manière pu
+En ne déléguant pas, le manager se retrouve à gérer beaucoup de tâches plus les crises. En déléguant, le manager s'offre de la flexibilité pour gérer les situations de crise de manière plus efficace
+
+### Les collaborateurs sont trop occupés
+Prétexte. 
+Qu'est-ce qui donne envie de venir travailler chaque matin? --> Nouveau défi
+Donc donner la capacité aux collaborateurs de se dépasser et d'évoluer dans leur travail est bénéfique et les fera rester.
+
+### Les collaborateurs n'ont pas une vision d'ensemble
