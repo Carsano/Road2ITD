@@ -59,5 +59,9 @@ Fur et à mesure. tâches simples au début, puis plus complexe.
 - **Travail de détail** : Un manager est payé pour orienter une équipe vers un objectif commun pas pour dépanner.
 - **Recueil d'informations** : Lire des tonnes d'articles n'est pas votre job, les analyser l'est.
 - **Tâches répétitives** 
-- **Représentations** : Le manager ne peut 
+- **Représentations** : Le manager ne peut pas être partout à la fois.
+- **Futures responsabilités** : Certaines tâches sont de magnifiques opportunités pour former votre collaborateurs.
+### Tâches à ne pas déléguer
+- **Vision et objectifs à long terme** 
+- **Evaluation des performances, discipline et conseil** : Il est important de dédier du temps à ses 
 
