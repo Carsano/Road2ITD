@@ -56,5 +56,8 @@ Checker que le collaborateur a bien compris et accepté sa mission. Il doit s'en
 ## Déléguer ou ne pas déléguer ?
 Fur et à mesure. tâches simples au début, puis plus complexe.
 ### Tâches à déléguer
-- **Travail de détail** 
+- **Travail de détail** : Un manager est payé pour orienter une équipe vers un objectif commun pas pour dépanner.
+- **Recueil d'informations** : Lire des tonnes d'articles n'est pas votre job, les analyser l'est.
+- **Tâches répétitives** 
+- **Représentations** : Le manager ne peut 
 
