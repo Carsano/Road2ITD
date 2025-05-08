@@ -13,3 +13,7 @@ Un tri a déjà été fait lors du recrutement, si ils sont dans l'équipe c'est
 Les collaborateurs ne seront pas investis ni n'auront confiance dans le manager si le manager n'a pas confiance en eux.
 
 ### On ne contrôle pas les résultats en déléguant 
+Le résultat peut être contrôlé mais pas la façon dont ces résultats sont obtenus. Cela permet aussi de faire émerger des chemins alternatifs pour atteindre ces résultats et donc des potentiels d'amélioration des processus.
+
+### Le manager est le seul à détenir les réponses
+Les collaborateurs sont une source d'expérience et de connaissances. Autant utiliser ces sources
