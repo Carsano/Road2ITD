@@ -26,4 +26,7 @@ C'est l'effet inverse qui se produit, car vous n'êtes plus limité par vos seul
 La délégation et l'empowerement rendent les équipes plus efficaces, concentrée et unie. 
 
 ### Toute la reconnaissance des supérieurs ira aux employés.
-En passant manager, la reconnaissance ne passe plus par l'accomplissement de tâches isolées mais sur la capacité à atteindre un objectif en utilisant le potentiel des autres
+En passant manager, la reconnaissance ne passe plus par l'accomplissement de tâches isolées mais sur la capacité à atteindre un objectif en utilisant le potentiel des autres.
+
+### La délégation réduit la flexibilité
+En ne déléguant pas, le manager se retrouve à gérer beaucoup de tâches plus les crises. En déléguant, le manager s'offre de la flexibilité pour gérer les situations de crise de manière pu
