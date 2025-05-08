@@ -22,4 +22,8 @@ Les collaborateurs sont une source d'expérience et de connaissances. Autant uti
 Illusion car si la délégation est faite de manière correcte, vous gagnez du temps les prochaines fois. De plus cela prive le collaborateur de l'opportunité de développer des nouvelles compétences.
 
 ### La délégation réduit l'autorité
-C'est l'effet inverse qui se produit.
+C'est l'effet inverse qui se produit, car vous n'êtes plus limité par vos seuls capacité, vous ajoutez les capacités de votre équipe.
+La délégation et l'empowerement rendent les équipes plus efficaces, concentrée et unie. 
+
+### Toute la reconnaissance des supérieurs ira aux employés.
+En passant manager, la reconnaissance ne passe plus par l'accomplissement de tâches isolées mais sur la capacité à atteindre un objectif en utilisant le potentiel des autres
