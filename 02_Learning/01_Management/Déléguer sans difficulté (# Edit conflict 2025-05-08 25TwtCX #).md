@@ -69,9 +69,5 @@ Fur et à mesure. tâches simples au début, puis plus complexe.
 - **Confidentialité ou circonstances particulières
 
 ## Effectuer un suivi non intrusif
-La difficulté réside dans le fait de trouver un juste milieu entre suivi à la culotte de l'avancé et le non-suivi.
-
-- Chaque collaborateur est unique et donc il faut **adapter son approche** 
-- Utiliser un système de suivi manuel ou informatique
-- Laisser la porte ouverte à la communication
+La difficulté réside dans le fait de trouver un juste milieu entre suivi à la culotte de l'avancé et non-suivi.
 
