@@ -63,5 +63,11 @@ Fur et à mesure. tâches simples au début, puis plus complexe.
 - **Futures responsabilités** : Certaines tâches sont de magnifiques opportunités pour former votre collaborateurs.
 ### Tâches à ne pas déléguer
 - **Vision et objectifs à long terme** 
-- **Evaluation des performances, discipline et conseil** : Il est important de dédier du temps à ses 
+- **Evaluation des performances, discipline et conseil** : Il est important de dédier du temps à ses collaborateurs
+- **Tâches délicates**
+- **Missions Personnelles** 
+- **Confidentialité ou circonstances particulières
+
+## Effectuer un suivi non intrusif
+La difficulté réside dans le fait de trouver un juste milieu entre suivi à la 
 
