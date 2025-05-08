@@ -77,5 +77,12 @@ La difficulté réside dans le fait de trouver un juste milieu entre suivi à la
 - **Veillez au respect des accords passés avec votre collaborateur.** Le manager doit comprendre pourquoi la tâche n'a pas été réalisée. Chacun doit assumer ses responsabilités.
 - Récompensez les performances qui comblent ou surpassent vos attentes et fournissez des conseils pour relever les performances insuffisantes.
 
-#### Lorsque
+### Lorsque la délégation se passe mal
+- Utiliser un système de suivi plus formel
+- Suivi informel
+- Relevez une partie du travail de manière périodique
+- Demandez un rapport
+- Conseillez
+- Reprenez toute l'autorité
+- Redistribuer les tâches
 
