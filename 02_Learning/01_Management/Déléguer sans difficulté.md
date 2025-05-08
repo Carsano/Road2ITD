@@ -37,3 +37,8 @@ Qu'est-ce qui donne envie de venir travailler chaque matin? --> Nouveau défi
 Donc donner la capacité aux collaborateurs de se dépasser et d'évoluer dans leur travail est bénéfique et les fera rester.
 
 ### Les collaborateurs n'ont pas une vision d'ensemble
+C'est le rôle du manager de partager une vision d'ensemble aux collaborateurs. En tenant ses collaborateurs à l'écart cela créé un climat défavorable et de manque de confiance.
+
+## Les 6 étapes de la délégation
+### 1. Confier ma tâche
+Décrire en détail le résultat attendu et le délai à accorder.
