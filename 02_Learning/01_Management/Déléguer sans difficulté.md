@@ -17,3 +17,9 @@ Le résultat peut être contrôlé mais pas la façon dont ces résultats sont o
 
 ### Le manager est le seul à détenir les réponses
 Les collaborateurs sont une source d'expérience et de connaissances. Autant utiliser ces sources
+
+### Le manager travaille plus vite tout seul
+Illusion car si la délégation est faite de manière correcte, vous gagnez du temps les prochaines fois. De plus cela prive le collaborateur de l'opportunité de développer des nouvelles compétences.
+
+### La délégation réduit l'autorité
+C'est l'effet inverse qui se produit.
