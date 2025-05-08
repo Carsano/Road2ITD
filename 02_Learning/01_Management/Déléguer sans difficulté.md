@@ -45,8 +45,11 @@ Décrire en détail le résultat attendu et le délai à accorder.
 2. **Exposer le contexte.**
 Expliquer l'importance de la tâche et pourquoi elle doit être réalisée.
 3. **Fixer les critères d'évaluations**
-En donnant des critères 
+En donnant des critères réalistes et accessibles, vous indiquez comment la tâche sera évaluée. Cela clarifie vos attentes
 4. **Investir d'autorité**
+Donner l'autorité nécessaire au collaborateur pour accomplir la tâche sans se heurter au refus ou à l'inertie d'autres employés.
 5. **Offrir son soutien**
+Identifier les ressources nécessaires à l'accomplissement de la tâche (formation, budget, conseil)
 6. **Obtenir un engagement**
+Checker que le c
 
