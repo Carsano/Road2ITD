@@ -1,4 +1,8 @@
-
+---
+tags:
+  - Management
+---
+<<< [[Introduction au Management]]
 ## 5 bonnes raisons de déléguer
 - Le succès managériale dépend de cette compétence.
 - Vous ne pouvez pas tout faire.

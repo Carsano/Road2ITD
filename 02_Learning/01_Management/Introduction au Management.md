@@ -1,3 +1,9 @@
+---
+tags:
+  - Management
+---
+[[Déléguer sans difficulté]] >>>
+
 # Définition
 
 "Concrétiser un projet dans un certain domaine en utilisant les ressources disponibles"
@@ -39,3 +45,6 @@ L'information est le fondement du pouvoir, l'évolution constante de la sociét�
 ## Observer et écouter
 Observer les bonnes pratiques et les mauvaises pratiques pour en tirer le plus d'avantages
 Voici deux liens pour répertorier les [[Bonnes pratiques Managériales]] et les [[Mauvaises pratiques managériales]]
+
+
+
