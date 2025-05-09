@@ -30,9 +30,10 @@ Il faut utiliser son influence pour libérer l'énergie naturelle des collaborat
 >Cette vision doit représenter un défi mais accessible
 
 ## Communiquer
-
+Les collaborateurs ne sont pas là pour obéir, ils donnent leurs avis et veulent être inclus. La communication doit être à double sens et ouverte. Ne pas cacher les choses à ses collaborateurs.
 
 ## Soutenir et encourager
+Les collaborateurs doivent se sentir libre de parler, de dire la vérité et de prendre des risques.
 
 
 
