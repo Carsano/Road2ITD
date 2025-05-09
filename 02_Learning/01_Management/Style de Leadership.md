@@ -23,3 +23,16 @@ Les leaders ont un point commun : Avoir une vision de la société nourrissant l
 # Rôle du Leader
 ## Inciter à l'action
 La plupart des gens veulent être fiers de leur société.
+Il faut utiliser son influence pour libérer l'énergie naturelle des collaborateurs.
+
+>[!tip]
+>Créer une vision attrayante et laissez libre cours à la créativité et à la fierté.
+>Cette vision doit représenter un défi mais accessible
+
+## Communiquer
+
+
+## Soutenir et encourager
+
+
+
