@@ -18,4 +18,8 @@ Les leader possèdent une vision.
 Les managers utilisent des procédures, des politiques, des plannings etc pour atteindre les objectifs de la société.
 Les leaders lancent des défi aux salariés en leur donnant une image attrayante de l'avenir et libèrent leur potentiel pour leur permettre d'atteindre les objectifs de société.
 
-Les leaders ont un point commun : Avoir une vision de la société nourri
+Les leaders ont un point commun : Avoir une vision de la société nourrissant l'imagination des équipes et incité celles-ci à la concrétiser.
+
+# Rôle du Leader
+## Inciter à l'action
+La plupart des gens veulent être fiers de leur société.
