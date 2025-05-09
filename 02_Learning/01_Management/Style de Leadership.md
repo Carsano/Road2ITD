@@ -34,6 +34,11 @@ Les collaborateurs ne sont pas là pour obéir, ils donnent leurs avis et veulen
 
 ## Soutenir et encourager
 Les collaborateurs doivent se sentir libre de parler, de dire la vérité et de prendre des risques.
+Un bon leader soutient ses équipes et encourage leur volonté de faire du bon travail.
+>[!tip]
+>Quand un collaborateur se sent en sécurité, il n'hésite pas à prendre des risques pour l'avenir de la société
+
+
 
 
 
