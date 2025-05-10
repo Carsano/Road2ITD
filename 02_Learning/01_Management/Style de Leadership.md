@@ -55,5 +55,7 @@ Quelque soit le problème, un leader aura toujours confiance en la capacité à 
 ## Intégrité
 Une éthique, des valeurs et le sens de l'équité.
 ### 5 principes de l'éthique
-- **But** : 
+- **But** : Mission provient du sommet de la société. Guidée par des valeurs, des espoirs et une vision. Cela aide à déterminer ce qui est acceptable et ce qui ne l'est pas.
+- **Fierté** : En étant fier de sa société, cela permet de résister à la tentation de comportement contraire à l'éthique.
+- **Patience** : La croyance interne qu'en respectant nos valeurs nous serons gagnants sur le long terme.
 
