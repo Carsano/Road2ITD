@@ -8,4 +8,4 @@ Everything is a box components :
 - Content
 - Padding (Space inside the box)
 - Border (Space of the border)
-- Margin (Space outside of the border) : Margin collapses
+- Margin (Space outside of the border) : Margin collapses they are not a
