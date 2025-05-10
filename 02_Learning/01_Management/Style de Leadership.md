@@ -57,5 +57,10 @@ Une éthique, des valeurs et le sens de l'équité.
 ### 5 principes de l'éthique
 - **But** : Mission provient du sommet de la société. Guidée par des valeurs, des espoirs et une vision. Cela aide à déterminer ce qui est acceptable et ce qui ne l'est pas.
 - **Fierté** : En étant fier de sa société, cela permet de résister à la tentation de comportement contraire à l'éthique.
-- **Patience** : La croyance interne qu'en respectant nos valeurs nous serons gagnants sur le long terme.
+- **Patience** : La croyance interne qu'en respectant nos valeurs nous serons gagnants sur le long terme. Equilibre entre l'obtention de résultats et la façon dont nous les obtenons.
+- **Constance** : Engagés à vivre selon une éthique. 
+- **Perspectives** : Prendre le temps de faire une pause et de réfléchir, faire le point.
+
+## Esprit de décision
+Un collaborateur se plaint souvent que son leader n'a pas pris la
 
