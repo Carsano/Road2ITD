@@ -11,4 +11,10 @@ Everything is a box components :
 - Margin (Space outside of the border) : Margin collapses
 `box-sizing: border-box`is keeping the height and width of the box adapting the content depending on the border and padding
 
-## Di
+## Display block and inline
+basically each element following a `display: block` will appear on a new line
+Inline is stacked
+
+## Div and Span
+
+Div is a block element and span is an inline element
