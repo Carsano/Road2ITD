@@ -25,3 +25,8 @@ By saying `flex:1`the element should grow the same amount of every other
 By saying `flex: 2`to a particular element, it will be twice bigger that the other elements in the flex container.
 
 `flex-shrink`is applied when the flex elements are bigger than the flex container, forcing them to shrink inside it. If you don't want items to shrink then put `flex-shrink: 0`
+
+`flex-basis`set the initial size of each flex item. normally at auto it set to 0 if we use `flex : 1`
+We can use `flex : auto`is a shorthand for `flex : 1 1 auto`
+
+# Axes
