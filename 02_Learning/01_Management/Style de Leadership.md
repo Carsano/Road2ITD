@@ -44,5 +44,9 @@ Un bon leader soutient ses équipes et encourage leur volonté de faire du bon t
 Malgré un monde VUCA, les qualités d'un leader restent immuables.
 
 ## Optimisme
-Les collaborateurs aiment travailler pour des gagnants. L'optimisme est contagieux.
+Les collaborateurs aiment travailler pour des gagnants. L'optimisme est contagieux. Portés par cette dynamique positive, les collaborateurs deviennent plus productifs et satisfaits.
+
+## Confiance
+Quelque soit le problème, un leader aura toujours confiance en la capacité à tacler le problème. Un leader confiant fait des collaborateurs confiants.
+>[]
 
