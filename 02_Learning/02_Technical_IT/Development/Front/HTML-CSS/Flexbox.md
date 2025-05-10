@@ -36,3 +36,5 @@ flexblox can work horizontally : `row`or verticaly `column`
   flex-direction: column;
 }
 ```
+
+# Alignment
