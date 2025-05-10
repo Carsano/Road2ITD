@@ -40,5 +40,9 @@ Un bon leader soutient ses équipes et encourage leur volonté de faire du bon t
 
 
 
+# Principales Qualités du leader
+Malgré un monde VUCA, les qualités d'un leader restent immuables.
 
+## Optimisme
+Les collaborateurs aiment travailler pour des gagnants. L'optimisme est contagieux.
 
