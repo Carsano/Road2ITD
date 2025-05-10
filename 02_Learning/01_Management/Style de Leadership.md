@@ -62,5 +62,11 @@ Une éthique, des valeurs et le sens de l'équité.
 - **Perspectives** : Prendre le temps de faire une pause et de réfléchir, faire le point.
 
 ## Esprit de décision
-Un collaborateur se plaint souvent que son leader n'a pas pris la
+Un collaborateur se plaint souvent que son leader n'a pas pris la décision nécessaire. Les grands leader prennent des décisions en toute circonstance, pas de façon inconsidérée.
+>[!tip]
+>Une mauvaise décision vaut mieux que de ne pas en prendre.
+
+
+# Le Leadership partagé
+Le leadership est partagé au sein de la société, managers, cadre et tous les membres de la société.
 
