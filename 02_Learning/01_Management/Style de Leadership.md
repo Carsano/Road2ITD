@@ -48,5 +48,12 @@ Les collaborateurs aiment travailler pour des gagnants. L'optimisme est contagie
 
 ## Confiance
 Quelque soit le problème, un leader aura toujours confiance en la capacité à tacler le problème. Un leader confiant fait des collaborateurs confiants.
->[]
+>[!tip]
+>La clé n'est pas d'inspirer confiance mais de créer les conditions de faire confiance
+
+
+## Intégrité
+Une éthique, des valeurs et le sens de l'équité.
+### 5 principes de l'éthique
+- **But** : 
 
