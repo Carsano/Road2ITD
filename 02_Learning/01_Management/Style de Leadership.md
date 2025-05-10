@@ -69,4 +69,11 @@ Un collaborateur se plaint souvent que son leader n'a pas pris la décision néc
 
 # Le Leadership partagé
 Le leadership est partagé au sein de la société, managers, cadre et tous les membres de la société.
+Exemples :
+- Réduire la hiérarchisation : JP Morgan 4 niveaux
+- Approche 100% orentiée client : Pas besoin de consulter sa ligne managériale
+- Organisation par projet
+
+## Les 8 principes du leadership partagé
+Selon l'exemple d'Oprheus (orchestre de)
 
