@@ -75,5 +75,11 @@ Exemples :
 - Organisation par projet
 
 ## Les 8 principes du leadership partagé
-Selon l'exemple d'Oprheus (orchestre de)
+Selon l'exemple d'Oprheus (orchestre de New York sans chef d'orchestre)
+- **Donner des responsabilité à toutes les personnes qui travaillent**
+- **Encourager la responsabilité individuelle en termes de qualité.
+- **Clarifier les rôles** : Chacun doit avoir un rôle bien défini pour savoir avec précision de quoi il est responsable.
+- **Favoriser le travail en équipe horizontale** : Personne n'a toutes les réponses.
+- **Partager le leadership par roulement** : 
+- 
 
