@@ -30,3 +30,9 @@ By saying `flex: 2`to a particular element, it will be twice bigger that the oth
 We can use `flex : auto`is a shorthand for `flex : 1 1 auto`
 
 # Axes
+flexblox can work horizontally : `row`or verticaly `column`
+```css
+.flex-container {
+  flex-direction: column;
+}
+```
