@@ -19,4 +19,7 @@ div {
 	flex: 1;
 }
 ```
-That equals to `flex-grow:1;`, `flex-shrink:1;`and `f
+That equals to `flex-grow:1;`, `flex-shrink:1;`and `flex-basis:0;`
+You can also put `flex: 1 1 0;`
+By saying `flex:1`the element should grow the same amount of every other
+By saying `flex: 2`to a particular element, it will be twice bigger that the other elements in the flex container
