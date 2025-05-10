@@ -80,6 +80,8 @@ Selon l'exemple d'Oprheus (orchestre de New York sans chef d'orchestre)
 - **Encourager la responsabilité individuelle en termes de qualité.
 - **Clarifier les rôles** : Chacun doit avoir un rôle bien défini pour savoir avec précision de quoi il est responsable.
 - **Favoriser le travail en équipe horizontale** : Personne n'a toutes les réponses.
-- **Partager le leadership par roulement** : 
-- 
+- **Partager le leadership par roulement** 
+- **Apprendre à écouter et à parler** : Un bon leader écoute mais surtout sait reconnaître le bon moment pour parler.
+- **Etablir un consensus** 
+- **S'investir pleinement dans sa mission**
 
