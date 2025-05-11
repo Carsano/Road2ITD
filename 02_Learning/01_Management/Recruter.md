@@ -91,4 +91,7 @@ Attention aux sujets légaux :
 
 ## Revoir les notes
 Après relecture des notes classez les candidats : 
-- **Gagnats**
+- **Gagnants** : Recruter n'importe lequel d'entre eux
+- **Gagnants potentiels**: Manque expérience ou pas impressioné par la prestation en entretien. Si aucun gagnant n'accepte alors on peut envisager de les recruter
+- **Perdants** : Ne pas recruter même si aucun candidat
+## Faire passer d'autres entretiens
