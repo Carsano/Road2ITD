@@ -78,4 +78,17 @@ Attention aux sujets légaux :
 - Situation de famille
 - Religion
 - Arrestations et caiser judiciaire
-- Taille
+- Taille et poids
+- Endettement
+- Handicap
+
+# Evaluer les candidats
+## Vérifier les références des candidats
+- **Références universitaires**
+- **Employeurs précédents**
+- **Réseau interne**
+- **Internet**
+
+## Revoir les notes
+Après relecture des notes classez les candidats : 
+- **Gagnats**
