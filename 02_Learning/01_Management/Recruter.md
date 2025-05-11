@@ -35,4 +35,10 @@ Précisez les principales qualités qui s'en suivent.
 
 ## Trouver des candidats intéressants
 Les collaborateurs sont au coeur de l'entreprise.
-Un mauvais recrutement 
+Un mauvais recrutement entraîne des conséquences désastreuses pour une entreprise en fonction du type de poste.
+
+Où trouver des candidats ?
+- **Recrutement interne** : Plus facile, moins coûteux et moins risqué
+- **Références personnelles**: Obtiens plus d'informations sur points forts et points faibles
+- **Agences d'intérim** : 
+- **Associations professionnelles**
