@@ -57,4 +57,5 @@ Une question mal formulée entraîne des réponses vagues. Toutes les questions 
 - **Quel genre de personne êtes-vous?** Vous allez passer du temps avec la personne, le fit de personnalité est important.
 - **Avons-nous les moyens de vous recruter?** Il faut que l'offre soit raccord avec ses prétentions salariales. Le salaire n'est qu'une partie de la rétribution.
 ## Ce qu'il faut faire
-- **Revoyez le CV de chaque candidat en début de journée** il est incorrect de lire le CV pendant l'entretien. Cela permet aussi d'anticiper les 
+- **Revoyez le CV de chaque candidat en début de journée** il est incorrect de lire le CV pendant l'entretien. Cela permet aussi d'anticiper les questions.
+- **Se familiariser avec le profil du poste** : Bien se rappeler des responsabilités et qualifications requises pour le poste. Evite de décourager un candidat pour une responsabilité qu'il n'aura pas ou de confrontrer une nouvelle recrue à une tâche non mentionnée en entretien.
