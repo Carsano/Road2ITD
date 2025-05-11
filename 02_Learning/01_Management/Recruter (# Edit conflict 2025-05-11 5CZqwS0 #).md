@@ -25,4 +25,4 @@ Il n'est jamais facile de trouver un bon candidat.
 - **Responsabilité** : Les candidats doivent vouloir prendre des responsabilités
 
 ## Définit le profil du poste
-Fixer dès le début les critères pour un candidat. Le plus précis le mieux. Plus les critères seront définis moi
+Fixer dès le début les critères pour un candidat. Le plus précis 
