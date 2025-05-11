@@ -62,4 +62,11 @@ Une question mal formulée entraîne des réponses vagues. Toutes les questions 
 - **Rédiger ses questions à l'avance** 
 - **Choisissez un environnement confortable pour les candidats et vous**
 - **Evitez les abus de pouvoir**: Soyez authentique
-- **Prenez beaucoup de notes** : Ne pas compter sur sa mémoire
+- **Prenez beaucoup de notes** : Ne pas compter sur sa mémoire.
+Interroger le candidat pour obtenir toutes les informations dont vous avez besoin et faire "factualiser" les compétences énoncées.
+
+>[!tip] Pour les notes : résumez en quelques points clés les réponses des candidats et leurs réactions à vos questions
+
+Ensuite notez les candidats 
+
+##
