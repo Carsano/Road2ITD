@@ -20,4 +20,4 @@ Il n'est jamais facile de trouver un bon candidat.
 - **Comportement adapté** : Dépend du contexte et des personnes. L'*optimisme*, la *sympathie* et le *dévouement* rendent la vie au travail plus agréable pour tout le monde.
 - **Expérience** : La mise en récit permet la représentation et la partage de l'expérience
 >[!def] L'expérience est la manifestation de la capacité d'un candidat à mobiliser ses savoirs dans un contexte précis.
-- **Stabilité** : 
+- **Stabilité** : Engagement sur le long terme
