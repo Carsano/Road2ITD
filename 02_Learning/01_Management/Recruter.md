@@ -100,3 +100,14 @@ Le nombre d'entretiens va dépendre de la nature du poste. Attention le recrutem
 ## Recruter le meilleur
 Prenez les candidats selon votre classement préalable.
 ### Soyez objectifs
+Ne pas se laisser influencer par l'apparence, la personnalité pétillante, d'un candidat. 
+
+### Faites quand même confiance à votre instinct
+En cas de doute, faites confiance à votre instinct.
+
+## Compétences et comportement
+Les compétences s'apprennent, il est plus difficile de changer un comportement
+
+
+# Les 5 étapes d'un entretien réussi
+1. Accueillir le candidat
