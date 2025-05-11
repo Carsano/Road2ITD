@@ -1,3 +1,9 @@
+---
+tags:
+  - Prompt
+---
+
+
 Je veux devenir Directeur IT dans le secteur <secteur d’activité> au sein d’une <type d’entreprise : PME, grande entreprise, startup> d’environ <taille : nombre d’employés ou chiffre d’affaires>. Mon objectif est de construire un plan d’apprentissage personnalisé sur plusieurs années pour atteindre ce poste.
 
 Pour bien comprendre mon profil et mes besoins, pose-moi **20 questions précises**, une à la fois (attends ma réponse avant de passer à la suivante). Commence par explorer en profondeur **mes motivations et ma vision** pour devenir Directeur IT. Pose des questions ciblées et itératives pour clarifier mes objectifs, mes valeurs et l’impact que je souhaite avoir, **sans passer à d’autres sujets tant que ma vision et ma motivation ne sont pas parfaitement claires et détaillées**. Ensuite, explore :

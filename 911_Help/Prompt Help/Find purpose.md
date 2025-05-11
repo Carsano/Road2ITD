@@ -1,3 +1,9 @@
+---
+tags:
+  - Prompt
+---
+
+
 I want to reconnect with my deepest purpose — not the version shaped by fear, ego, or external expectations, but the truth that’s been with me all along. Please guide me through this journey by asking me ten uncomfortable yet powerful questions, one at a time, to peel back the layers and reveal my true ‘why’.
 
 After I answer the tenth question, step into the role of my future self — the version of me who is fully aligned with my purpose. Analyze my responses without sugar-coating. Identify the illusions I'm clinging to, the fears holding me back, and the gifts I’m meant to share with the world.
