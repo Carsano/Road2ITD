@@ -2,7 +2,7 @@
 tags:
   - Management
 ---
-<<< [[Style de Leadership]] |
+<<< [[Style de Leadership]] | [[Motiver ses collaborateurs]] >>
 
 # Introduction
 - Identifier ses besoins
@@ -117,4 +117,7 @@ Décrivez les poste, le genre de la personne que vous recherchez et la façon do
 3. **Posez vos questions**
 Vos questions doivent être liées au poste exclusivement
 4. **Identifiez les points forts et les points faibles du candidat**
-N'hésitez pas à demander quels sont s
+N'hésitez pas à demander quels sont ses points forts et ses points faibles directement
+5. **Concluez l'entretien**
+Donnez au candidat la possibilité de vous donner plus d'informations ou de le laisser poser des questions.
+
