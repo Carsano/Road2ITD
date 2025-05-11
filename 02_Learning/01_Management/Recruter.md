@@ -110,4 +110,11 @@ Les compétences s'apprennent, il est plus difficile de changer un comportement
 
 
 # Les 5 étapes d'un entretien réussi
-1. Accueillir le candidat
+1. **Accueillir le candidat**
+Accueillir le candidat chaleureusement et discutez de façon informelle. Cela va l'aider à se détendre
+2. **Résumez le profil du poste**
+Décrivez les poste, le genre de la personne que vous recherchez et la façon dont va se dérouler l'entretien
+3. **Posez vos questions**
+Vos questions doivent être liées au poste exclusivement
+4. **Identifiez les points forts et les points faibles du candidat**
+N'hésitez pas à demander quels sont s
