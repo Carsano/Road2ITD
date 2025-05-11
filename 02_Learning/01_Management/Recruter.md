@@ -69,4 +69,13 @@ Interroger le candidat pour obtenir toutes les informations dont vous avez besoi
 
 Ensuite notez les candidats 
 
-##
+## Ce qu'il ne faut pas faire
+La règle fondamentale à respecter pour éviter les bourdes est de faire preuve de **bon sens**.
+Attention aux sujets légaux :
+- Race, couleur de peau
+- Origines
+- Sexe
+- Situation de famille
+- Religion
+- Arrestations et caiser judiciaire
+- Taille
