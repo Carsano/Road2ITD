@@ -54,4 +54,6 @@ En tant que candidats, vous passez du temps à vous renseigner sur l'entreprise,
 Une question mal formulée entraîne des réponses vagues. Toutes les questions posées à un entretien peuvent être ramenées à l'un des quatre suivantes : 
 - **Pourquoi êtes-vous ici ?** Pourquoi le candidat veut-il passer cet entretien avec vous ? Rien n'est jamais sûr ;)
 - **Que pouvez-vous faire pour nous?** Les candidats vont tous vous éblouir avec leurs compétences, mais qu'est-ce qu'ils peuvent réellement apporter ?
-- **Quel genre de persone ^**
+- **Quel genre de personne êtes-vous?** Vous allez passer du temps avec la personne, le fit de personnalité est important.
+- **Avons-nous les moyens de vous recruter?** Il faut que l'offre soit raccord avec ses prétentions salariales. Le salaire n'est qu'une partie de la rétribution.
+## Ce qu'il faut faire
