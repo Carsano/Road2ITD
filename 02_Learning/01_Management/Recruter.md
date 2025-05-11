@@ -46,4 +46,10 @@ Où trouver des candidats ?
 - **Internet**
 - **Annonces**
 # Faire passer des entretiens
-> [Pour être efficace, il faut passer un maximum de temps à préparer vos entretiens.
+>[!tip] Pour être efficace, il faut passer un maximum de temps à préparer vos entretiens.
+
+En tant que candidats, vous passez du temps à vous renseigner sur l'entreprise, ce qu'elle fait etc. Idem pour un recruteur.
+
+## Poser les bonnes questions
+Une question mal formulée entraîne des réponses vagues. Toutes les questions posées à un entretien peuvent être ramenées à l'un des quatre suivantes : 
+- **Pourquoi **
