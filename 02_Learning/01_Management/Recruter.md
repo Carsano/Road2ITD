@@ -95,3 +95,8 @@ Après relecture des notes classez les candidats :
 - **Gagnants potentiels**: Manque expérience ou pas impressioné par la prestation en entretien. Si aucun gagnant n'accepte alors on peut envisager de les recruter
 - **Perdants** : Ne pas recruter même si aucun candidat
 ## Faire passer d'autres entretiens
+Le nombre d'entretiens va dépendre de la nature du poste. Attention le recrutement demande du temps mais les bons candidats sont chassés, un équilibre est à prévoir.
+
+## Recruter le meilleur
+Prenez les candidats selon votre classement préalable.
+### Soyez objectifs
