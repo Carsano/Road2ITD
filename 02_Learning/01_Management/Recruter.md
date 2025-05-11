@@ -33,7 +33,7 @@ Précisez les principales qualités qui s'en suivent.
 >[!tip] Plus vous êtes précis, plus vous avez d'arguments pour justifier le rejet de candidats qui n'ont pas le profil du poste.
 
 
-## Trouver des candidats intéressants
+# Trouver des candidats intéressants
 Les collaborateurs sont au coeur de l'entreprise.
 Un mauvais recrutement entraîne des conséquences désastreuses pour une entreprise en fonction du type de poste.
 
@@ -41,4 +41,9 @@ Où trouver des candidats ?
 - **Recrutement interne** : Plus facile, moins coûteux et moins risqué
 - **Références personnelles**: Obtiens plus d'informations sur points forts et points faibles
 - **Agences d'intérim** : 
-- **Associations professionnelles**
+- **Associations professionnelles** 
+- **Cabinets de recrutement**
+- **Internet**
+- **Annonces**
+# Faire passer des entretiens
+> [Pour être efficace, il faut passer un maximum de temps à préparer vos entretiens.
