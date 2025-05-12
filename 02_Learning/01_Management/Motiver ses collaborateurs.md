@@ -38,3 +38,7 @@ Le moyen le plus simple est de leur demander. Pour savoir :
 - Soyez prêt à modifier votre plan si nécessaire.
 
 ## Créer un environnement positif
+
+- **Mettez vos collaborateurs à l'aise** : Ils doivent être aussi à l'aise à l'annonce d'une mauvaise nouvelle que d'une bonne nouvelle
+- **Laissez libre voie à la communication** : Une communication rapide et efficace est primordiale. Encouragez les collaborateurs à parler librement, faire des suggestions et briser les barrières hiérarchiques.
+- **Etablissez des relations de confiance et de respect** 
