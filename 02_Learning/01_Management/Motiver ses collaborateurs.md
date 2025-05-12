@@ -6,7 +6,7 @@ tags:
 
 # Introduction
 - Assimiler le plus universel des principes de management
-- Déterminer ce qui motive les alariés
+- Déterminer ce qui motive les collaborateurs
 - Identifier les comportements à récompenser
 - Commencer par les points positifs
 - Récompenser les petits détails
@@ -20,4 +20,9 @@ Globalement la sanction ne fonctionne pas. Il faut y avoir recours mais pas en t
 
 > [!quote] On obtient ce que l'on mérite
 
-## Exemple de non simplici
+## Exemple de non simplicité
+Même tâche donnée à A et B. A finit en avance et sans erreur. Deux autres tâches lui sont confiées.
+B termine en retard avec plein d'erreurs que vous corrigez vous-même.
+Du coup A est puni et B est récompensé
+
+## La motivation neutre
