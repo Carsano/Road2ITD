@@ -10,4 +10,10 @@ tags:
 - Identifier les comportements à récompenser
 - Commencer par les points positifs
 - Récompenser les petits détails
-- O
+- Offrir des récompenses non monétaires
+
+Globalement la sanction ne fonctionne pas. Il faut y avoir recours mais pas en termes de motivation.
+
+>[!tip] Les techniques de motivation *positives* incitent les collaborateurs à faire ce que vous attendez en les rendant plus heureux et plus productifs.
+
+# Princip
