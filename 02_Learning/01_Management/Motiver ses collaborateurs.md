@@ -53,3 +53,11 @@ Les collaborateurs ne sont pas motivés par accident.
 
 # Que faut-il récompenser ?
 Un programme de récompenses doit être axé autour de la performance.
+Les efforts pour améliorer leurs niveaux comptent plus.
+
+## Commencez par les aspects positifs
+> [!tip] On motive davantage en se concentrant sur les résultats positifs qu'en sanctionnant les résultats négatifs.
+
+La reconnaissance est intimement liée à la motivation. A ne pas négliger.
+
+La critique permet de ré
