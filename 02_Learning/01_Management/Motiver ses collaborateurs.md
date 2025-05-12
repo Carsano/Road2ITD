@@ -26,4 +26,9 @@ B termine en retard avec plein d'erreurs que vous corrigez vous-même.
 Du coup A est puni et B est récompensé
 
 ## La motivation neutre
-Donner la même chose à 
+Donner la même chose à chaque salarié: Semble équitable mais ne l'est pas.
+
+Avant de mettre en place un système de récompense, identifiez avec prévisions les comportements à récompensez et adaptez les récompenses en fonction de ces comportements.
+
+# Qu'est-ce qui motive les collaborateurs ?
+La motivation est contextuelle et contigente : Aucune potion magique, chacun a ses propres facteurs.
