@@ -20,3 +20,4 @@ Globalement la sanction ne fonctionne pas. Il faut y avoir recours mais pas en t
 
 > [!quote] On obtient ce que l'on mérite
 
+## Exemple de non simplici
