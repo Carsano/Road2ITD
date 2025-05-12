@@ -41,4 +41,5 @@ Le moyen le plus simple est de leur demander. Pour savoir :
 
 - **Mettez vos collaborateurs à l'aise** : Ils doivent être aussi à l'aise à l'annonce d'une mauvaise nouvelle que d'une bonne nouvelle
 - **Laissez libre voie à la communication** : Une communication rapide et efficace est primordiale. Encouragez les collaborateurs à parler librement, faire des suggestions et briser les barrières hiérarchiques.
-- **Etablissez des relations de confiance et de respect** 
+- **Etablissez des relations de confiance et de respect** : Ceux qui bénéficient de la confiance du manager ont envie de faire de leur mieux. Incluez les dans les processus de décision.
+- **Développez votre meilleur atout**: En aidants vos collaborateurs à se former et à faire tomber leurs barrières, vous répondez aux besoins de l'entreprise.
