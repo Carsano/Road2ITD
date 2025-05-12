@@ -47,4 +47,6 @@ Le moyen le plus simple est de leur demander. Pour savoir :
 ## Elaborez un plan
 Les collaborateurs ne sont pas motivés par accident.
 - **Choisissez les récompenses en fonction des objectifs** : Elles doivent favoriser les comportements qui permettent d'atteindre les objectifs.
-- **Fixez des critères et des procédures** : 
+- **Fixez des critères et des procédures** : Accessibles pour que les collaborateurs puissent les atteindre.
+- **Impliquez les salariés dans le processus** : Cela permet de trouver des réels résultats.
+- **Evaluez l'efficacité de votre programme** : Est-ce que cela donne les résultats escomptés ?
