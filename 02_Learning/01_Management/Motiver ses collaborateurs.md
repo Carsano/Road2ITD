@@ -43,3 +43,8 @@ Le moyen le plus simple est de leur demander. Pour savoir :
 - **Laissez libre voie à la communication** : Une communication rapide et efficace est primordiale. Encouragez les collaborateurs à parler librement, faire des suggestions et briser les barrières hiérarchiques.
 - **Etablissez des relations de confiance et de respect** : Ceux qui bénéficient de la confiance du manager ont envie de faire de leur mieux. Incluez les dans les processus de décision.
 - **Développez votre meilleur atout**: En aidants vos collaborateurs à se former et à faire tomber leurs barrières, vous répondez aux besoins de l'entreprise.
+
+## Elaborez un plan
+Les collaborateurs ne sont pas motivés par accident.
+- **Choisissez les récompenses en fonction des objectifs** : Elles doivent favoriser les comportements qui permettent d'atteindre les objectifs.
+- **Fixez des critères et des procédures** : 
