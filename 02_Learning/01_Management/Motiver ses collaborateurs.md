@@ -26,3 +26,4 @@ B termine en retard avec plein d'erreurs que vous corrigez vous-même.
 Du coup A est puni et B est récompensé
 
 ## La motivation neutre
+Donner la même chose à 
