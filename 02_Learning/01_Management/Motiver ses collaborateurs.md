@@ -64,3 +64,4 @@ La critique permet de réduire la fréquence du comportement non désiré mais n
 
 - **Accordez le bénéfice du doute** : Les collaborateurs ne veulent pas du mal, ils ont besoin d'aide
 - **Faites-vous une diée élebée des capacités de vos collaborateurs** : En étant convaincu de leurs valeurs, ils le seront aussi. "Je sais que tu peux faire mieux".
+- **Faites des remarques positives** : sur leur travail. Trop de managers se fixent sur les erreurs.
