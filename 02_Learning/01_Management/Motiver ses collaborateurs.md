@@ -5,7 +5,7 @@ tags:
 <<< [[Recruter]] |
 
 # Introduction
-- Assimiler le plus universl des principes de management
+- Assimiler le plus universel des principes de management
 - Déterminer ce qui motive les alariés
 - Identifier les comportements à récompenser
 - Commencer par les points positifs
@@ -16,4 +16,7 @@ Globalement la sanction ne fonctionne pas. Il faut y avoir recours mais pas en t
 
 >[!tip] Les techniques de motivation *positives* incitent les collaborateurs à faire ce que vous attendez en les rendant plus heureux et plus productifs.
 
-# Princip
+# Principe universel de management
+
+> [!quote] On obtient ce que l'on mérite
+
