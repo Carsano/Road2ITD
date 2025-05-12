@@ -32,3 +32,9 @@ Avant de mettre en place un système de récompense, identifiez avec prévisions
 
 # Qu'est-ce qui motive les collaborateurs ?
 La motivation est contextuelle et contigente : Aucune potion magique, chacun a ses propres facteurs.
+Le moyen le plus simple est de leur demander. Pour savoir : 
+- Créez un environnement positif pour vos collaborateurs.
+- Elaborez un plan pour concevoir et mettre en oeuvre votre programme de récompense.
+- Soyez prêt à modifier votre plan si nécessaire.
+
+## Créer un environnement positif
