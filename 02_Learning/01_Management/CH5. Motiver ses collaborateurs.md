@@ -68,3 +68,10 @@ La critique permet de réduire la fréquence du comportement non désiré mais n
 
 ## Attachez de l'importance aux détails
 Dans 99% des cas, impossible d'aller de prouesses en prouesses. Donc le travail se compose de petits accomplissements.
+
+>[!tip] Il est important de récompenser les collaborateurs pour des petits et des grands succès. 
+
+Il faut fixer des objectifs ambitieux pour les inciter à dépasser leurs limites et il faut les encourager le long de la progression.
+
+
+
