@@ -93,5 +93,11 @@ Comment mettre en oeuvre la reconnaissance ?
 L'argent compte pour les collaborateurs, une fois passé les besoins vitaux, l'argent n'est plus aussi motivant. La reconnaissance est quant à elle un don.
 
 ## Lorsque la récompense devient un dû
-Les récompenses régulières sont vues comme un dû. De plus, si une prime n'est pas versée une année
+Les récompenses régulières sont vues comme un dû. De plus, si une prime n'est pas versée une année donnée, cela entraîne de la déception et de l'hostilité.
+
+> [!quote] La demande croissante de récompenses matérielles détruit rapidement leur efficacité en tant que facteurs de motivation
+
+## Qu'est-ce qui motive les salariés d'aujourd'
+
+
 
