@@ -2,7 +2,7 @@
 tags:
   - Management
 ---
-<<< [[Recruter]] |
+<<< [[CH4. Recruter]] |
 
 # Introduction
 - Assimiler le plus universel des principes de management
@@ -67,4 +67,4 @@ La critique permet de réduire la fréquence du comportement non désiré mais n
 - **Faites des remarques positives** : sur leur travail. Trop de managers se fixent sur les erreurs.
 
 ## Attachez de l'importance aux détails
-Dans 99% des cas
+Dans 99% des cas, impossible d'aller de prouesses en prouesses. Donc le travail se compose de petits accomplissements.

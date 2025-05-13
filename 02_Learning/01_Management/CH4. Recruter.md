@@ -2,7 +2,7 @@
 tags:
   - Management
 ---
-<<< [[Style de Leadership]] | [[Motiver ses collaborateurs]] >>
+<<< [[CH3. Style de Leadership]] | [[CH5. Motiver ses collaborateurs]] >>
 
 # Introduction
 - Identifier ses besoins

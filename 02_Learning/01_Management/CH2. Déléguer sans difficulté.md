@@ -2,7 +2,7 @@
 tags:
   - Management
 ---
-<<< [[Introduction au Management]] | [[Style de Leadership]] >>>
+<<< [[CH1. Introduction au Management]] | [[CH3. Style de Leadership]] >>>
 ## 5 bonnes raisons de déléguer
 - Le succès managériale dépend de cette compétence.
 - Vous ne pouvez pas tout faire.

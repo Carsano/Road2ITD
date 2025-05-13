@@ -3,7 +3,7 @@ tags:
   - Management
   - Leadership
 ---
-<<< [[Déléguer sans difficulté]] | [[Recruter]] >>
+<<< [[CH2. Déléguer sans difficulté]] | [[CH4. Recruter]] >>
 
 # Introduction
 - Distinguer leadership et management

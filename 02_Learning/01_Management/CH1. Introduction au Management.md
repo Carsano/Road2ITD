@@ -2,7 +2,7 @@
 tags:
   - Management
 ---
-[[Déléguer sans difficulté]] >>>
+[[CH2. Déléguer sans difficulté]] >>>
 
 # Définition
 
