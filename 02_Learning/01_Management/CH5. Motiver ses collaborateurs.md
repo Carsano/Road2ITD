@@ -121,6 +121,14 @@ Des études montrent que ce sont les managers qui ont le plus d'influence sur la
 - Pas de favoritisme ?
 - Les collaborateurs se sentent vraiment écoutés ?
 
+Les marques de reconnaissance doivent être justifiée pour éviter le favoritisme qui faire perdre en crédibilité.
+
+# 10 Moyens de motiver les collaborateurs
+
+1. Remerciez personnellement fréquemment et avec sincérité
+2. Prenez le temps de rencontrer et d'écouter les collaborateurs
+3. Donner du feedback fréquent sur la performance
+4. Reconnaissez
 
 
 
