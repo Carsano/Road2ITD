@@ -2,7 +2,7 @@
 tags:
   - Management
 ---
-<<< [[CH4. Recruter]] |
+<<< [[CH4. Recruter]] | [[CH6. Etre un bon coach]] >>>
 
 # Introduction
 - Assimiler le plus universel des principes de management
@@ -134,7 +134,7 @@ Les marques de reconnaissance doivent être justifiée pour éviter le favoritis
 7. Donner la possibilité d'évoluer et de développer les compétences
 8. Donner un sentiment d'appartenance
 9. Créez un environnement de travail ouvert et agréable, reposant sur la confiance
-10. 
+10. Célébrez les succès de la société, du service et de chaque individu qui y travaille.
 
 
 
