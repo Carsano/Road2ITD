@@ -89,4 +89,9 @@ Comment mettre en oeuvre la reconnaissance ?
 
 # L'argent n'est pas le principal facteur de motivation
 
+## La rémunération est un droit
+L'argent compte pour les collaborateurs, une fois passé les besoins vitaux, l'argent n'est plus aussi motivant. La reconnaissance est quant à elle un don.
+
+## Lorsque la récompense devient un dû
+Les récompenses régulières sont vues comme un dû. De plus, si une prime n'est pas versée une année
 
