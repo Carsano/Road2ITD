@@ -79,7 +79,14 @@ Que peut-on reconnaître ?
 - **L'individu**
 - **Les résultats du travail** : Qualité, utilité ou efficacité
 - **Les pratiques de travail** : innovation, relation avec les clients, travail d'équipe
-- **L'investissement dans le travail**: les efforts, le niveau d'énergie inviesti.
-Comment reconnaître ?
-- **Reactive**
+- **L'investissement dans le travail**: les efforts, le niveau d'énergie investi.
+Comment mettre en oeuvre la reconnaissance ?
+- **Reactive**: temps court après
+- **Equitable**: proportionnelle par rapport au passé ou à d'autre collaborateurs
+- **Personnalisée**: Spécifique à la persone concernée.
+- **Sincère**: Faite avec authenticité
+- **Variable**: Pas sous la même forme
+
+# L'argent n'est pas le principal facteur de motivation
+
 
