@@ -20,4 +20,7 @@ Le coaching se trouve entre l'extrême de l'absence de soutien et celui de l'exc
 
 # Qu'est-ce qu'un coach ?
 - **Fixe des objectifs** : fixer des objectifs et des délais pour concrétiser les projets et laissez choisir la manière de les atteindre
-- **Soutient et encourage**: Le découragement fait parti de la vie.
+- **Soutient et encourage**: Le découragement fait parti de la vie. Le coach est là pour les aider.
+- **Fais passer le succès de l'équipe avant le succès individuel**: 
+- **Sait évaluer rapidement les points forts et les points faibles**: Adapte son approche en fonction.
+- **Motive les membres de son équipe**: Par son soutien et ses conseils, il sait motiver les membres de son équipe
