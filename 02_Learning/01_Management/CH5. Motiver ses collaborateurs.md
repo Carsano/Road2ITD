@@ -128,7 +128,13 @@ Les marques de reconnaissance doivent être justifiée pour éviter le favoritis
 1. Remerciez personnellement fréquemment et avec sincérité
 2. Prenez le temps de rencontrer et d'écouter les collaborateurs
 3. Donner du feedback fréquent sur la performance
-4. Reconnaissez
+4. Reconnaissez, récompensez et promouvez les plus performants
+5. Informez régulièrement sur l'état financer, nouveaux produits, nouveaux services et stratégies
+6. Impliquez-les dans les décisions, surtout celles qui les concernent
+7. Donner la possibilité d'évoluer et de développer les compétences
+8. Donner un sentiment d'appartenance
+9. Créez un environnement de travail ouvert et agréable, reposant sur la confiance
+10. 
 
 
 
