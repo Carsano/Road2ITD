@@ -26,3 +26,6 @@ Le coaching se trouve entre l'extrême de l'absence de soutien et celui de l'exc
 - **Motive les membres de son équipe**: Par son soutien et ses conseils, il sait motiver les membres de son équipe.
 - **Crée un environnement favorable au succès des individus**: Afin qu'ils prennent des risques et qu'ils dépassent leurs limites sans risque de sanction
 - **Communique avec les membres de son équipe**: Elément essentiel du coaching. Ils doivent savoir où ils en sont, ce qui va et ne va pas.
+
+>[!tip] Le Coach est toujours disponible ou conseiller ou simplement écouter les collaborateurs en cas de problème.
+
