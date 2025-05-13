@@ -97,7 +97,12 @@ Les récompenses régulières sont vues comme un dû. De plus, si une prime n'es
 
 > [!quote] La demande croissante de récompenses matérielles détruit rapidement leur efficacité en tant que facteurs de motivation
 
-## Qu'est-ce qui motive les salariés d'aujourd'
+## Qu'est-ce qui motive les salariés d'aujourd'hui ?
+Principaux facteurs de motivation :
+- **Viennent du manager** : La meilleure reconnaissance vient du manager
+- **Basés sur les performances**: Les collaborateurs veulent être reconnus pour le *travail pour lequel ils ont été recrutés*.
+
+Intégrer un programme de récompense efficace est plus difficile, mais devient p
 
 
 
