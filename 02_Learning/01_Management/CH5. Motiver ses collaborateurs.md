@@ -102,7 +102,18 @@ Principaux facteurs de motivation :
 - **Viennent du manager** : La meilleure reconnaissance vient du manager
 - **Basés sur les performances**: Les collaborateurs veulent être reconnus pour le *travail pour lequel ils ont été recrutés*.
 
-Intégrer un programme de récompense efficace est plus difficile, mais devient p
+Intégrer un programme de récompense efficace est plus difficile, mais devient naturel et fais partie du job de manager.
+
+> [!tip] Surprenez vos collaborateurs en train de d'effectuer une tâche valorisante et reconnaissez leurs succès régulièrement
+
+- Félicitations en personne ou à l'écrit
+- Reconnaissance exprimée en public pour les performances réalisées
+- Réunions valorisantes pour célébrer les succès
+- Jours de congé
+- Implication des employés dans les processus de décision
+
+## Le manager détient la clé de la motivation
+
 
 
 
