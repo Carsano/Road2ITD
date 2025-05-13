@@ -113,6 +113,13 @@ Intégrer un programme de récompense efficace est plus difficile, mais devient 
 - Implication des employés dans les processus de décision
 
 ## Le manager détient la clé de la motivation
+Des études montrent que ce sont les managers qui ont le plus d'influence sur la motivation des salariés.
+- Reconnaissance exprimée ?
+- Environnement de travail agréable et positif ?
+- Esprit d'équipe favorisé ?
+- Collaborateurs traités comme égaux ?
+- Pas de favoritisme ?
+- Les collaborateurs se sentent vraiment écoutés ?
 
 
 
