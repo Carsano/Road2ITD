@@ -16,4 +16,8 @@ tags:
 > Montre-moi... Je me souviens
 > Impliquez-moi... Je comprends
 
-Le coaching se trouve 
+Le coaching se trouve entre l'extrême de l'absence de soutien et celui de l'excès de directives.
+
+# Qu'est-ce qu'un coach ?
+- **Fixe des objectifs** : fixer des objectifs et des délais pour concrétiser les projets et laissez choisir la manière de les atteindre
+- **Soutient et encourage**: Le découragement fait parti de la vie.
