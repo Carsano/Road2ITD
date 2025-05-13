@@ -74,4 +74,12 @@ Dans 99% des cas, impossible d'aller de prouesses en prouesses. Donc le travail 
 Il faut fixer des objectifs ambitieux pour les inciter à dépasser leurs limites et il faut les encourager le long de la progression.
 
 
+## L'expression de la reconnaissance en situation de travail
+Que peut-on reconnaître ?
+- **L'individu**
+- **Les résultats du travail** : Qualité, utilité ou efficacité
+- **Les pratiques de travail** : innovation, relation avec les clients, travail d'équipe
+- **L'investissement dans le travail**: les efforts, le niveau d'énergie inviesti.
+Comment reconnaître ?
+- **Reactive**
 
