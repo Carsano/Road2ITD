@@ -39,3 +39,11 @@ En plus de soutien, il apporte un enseignement.
 2. **Ils font, vous commentez** : Laissez les faire la tâche mais commentez, donnez les instructions
 3. **Ils font, ils commentent** : Ils font et vous leurs demander de vous expliquer ce qu'ils font.
 
+
+# Les étapes décisives
+
+90% du temps, le management est dans les tâches banales. Mais posent les briques pour un forger les talents.
+
+> [!tip] Un bon coach est toujours à l'affût d'opportunités susceptibles d'assurer le succès de la société
+
+## Transformer les étapes décisives en succès
