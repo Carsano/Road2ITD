@@ -30,5 +30,12 @@ Le coaching se trouve entre l'extrême de l'absence de soutien et celui de l'exc
 >[!tip] Le Coach est toujours disponible ou conseiller ou simplement écouter les collaborateurs en cas de problème.
 
 En plus de soutien, il apporte un enseignement.
+# Transmettre
 
->[!tip] 
+>[!tip] Meilleurs moyen de transmettre est de faire et dire ce que l'on fait
+
+3 étapes :
+1. **Vous faites, vous commentez** : S'assoir et montrer en expliquant à haute voix
+2. **Ils font, vous commentez** : Laissez les faire la tâche mais commentez, donnez les instructions
+3. **Ils font, ils commentent** : Ils font et vous leurs demander de vous expliquer ce qu'ils font.
+
