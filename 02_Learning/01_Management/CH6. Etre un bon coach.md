@@ -2,7 +2,7 @@
 tags:
   - Management
 ---
-<<< [[CH5. Motiver ses collaborateurs]] |
+<<< [[CH5. Motiver ses collaborateurs]] | [[CH7. Développer les compétences des collaborateurs]] >>>
 
 # Introduction
 - Qu'est-ce qu'un coach ?
