@@ -61,4 +61,7 @@ Gérer les problèmes de vos collaborateurs :
 # Les outils du coach
 Un coach adapte son approche en fonction des personnes.
 
-- ****
+- **Consacrez du temps à vos collaborateurs** : Il faut être disponible et toujours avoir du temps pour eux
+- **Fournissez un contexte et une vision** : Expliquez le pourquoi du comment. Donnez une vision d'ensemble.
+- **Faites bénéficier vos collaborateurs de votre expérience** : Vous les faites bénéficier de l'expérience d'une personne possédant plus de recul qu'eux
+- **Proposez-vous comme cobaye** : 
