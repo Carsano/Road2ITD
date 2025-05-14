@@ -68,4 +68,9 @@ Un coach adapte son approche en fonction des personnes.
 - **Obtenez les ressources nécessaires** : Simplement fournir les ressources nécessaires
 - **Offrez votre aide** : Un collaborateur qui apprend une nouvelle tâche peut se retrouver surchargé de travail. Vous pouvez l'aider dans cette tâche
 
-# Comment développer les compéte
+# Comment développer les compétences des membres de votre équipe ?
+Il existe plusieurs modes d'apprentissage
+- **Le mentorat** : On apprend au contact de quelqu'un de plus expérimenté. Le contact stimule l'apprentissage
+- **La dynamique de groupe** : Apprend par l'appartenance à un groupe. Le fait d'être au sein d'un groupe.
+- **L'apprentissage direct** : On apprend en faisant, par essai et erreur
+- **L'apprentissage intellectuel** : Via un livre, un site internet
