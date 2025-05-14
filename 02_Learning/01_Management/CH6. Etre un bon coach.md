@@ -55,4 +55,10 @@ Le coach passe du temps avec les collaborateurs pour évaluer leurs progrès. Il
 Gérer les problèmes de vos collaborateurs : 
 - **Rencontrez le collaborateur** : Dans un endroit calme
 - **Soyez à l'écoute** : Avant de parler, écoutez le vraiment, comprenez vraiment ses problèmes
-- 
+- **Commentez les aspects positifs** : Montrez ce qu'il a fait de bien dans cette situation précise
+- **Montrez ce qui pourrait être améliorer** : Et surtout comment vous pouvez l'aider
+- **Effectuez un suivi** : Evaluez-le régulièrement et offrez votre soutien
+# Les outils du coach
+Un coach adapte son approche en fonction des personnes.
+
+- ****
