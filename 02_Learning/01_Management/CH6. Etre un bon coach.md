@@ -53,3 +53,6 @@ Chaque pierre posée à l'édifice est un succès en soi et permet de construire
 Le coach passe du temps avec les collaborateurs pour évaluer leurs progrès. Ils les aide à franchir les étapes décisives en leur faisant bénéficier de sa propre expérience.
 
 Gérer les problèmes de vos collaborateurs : 
+- **Rencontrez le collaborateur** : Dans un endroit calme
+- **Soyez à l'écoute** : Avant de parler, écoutez le vraiment, comprenez vraiment ses problèmes
+- 
