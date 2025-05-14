@@ -47,3 +47,9 @@ En plus de soutien, il apporte un enseignement.
 > [!tip] Un bon coach est toujours à l'affût d'opportunités susceptibles d'assurer le succès de la société
 
 ## Transformer les étapes décisives en succès
+Chaque pierre posée à l'édifice est un succès en soi et permet de construire une société plus florissante et prospère.
+
+## Aider les collaborateurs à franchir des étapes décisives
+Le coach passe du temps avec les collaborateurs pour évaluer leurs progrès. Ils les aide à franchir les étapes décisives en leur faisant bénéficier de sa propre expérience.
+
+Gérer les problèmes de vos collaborateurs : 
