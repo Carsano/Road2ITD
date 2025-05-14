@@ -29,3 +29,6 @@ Le coaching se trouve entre l'extrême de l'absence de soutien et celui de l'exc
 
 >[!tip] Le Coach est toujours disponible ou conseiller ou simplement écouter les collaborateurs en cas de problème.
 
+En plus de soutien, il apporte un enseignement.
+
+>[!tip] 
