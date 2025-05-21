@@ -35,3 +35,7 @@ Soyez visionnaire, n'attendez pas que le besoin se fasse ressentir.
 - Critères d'évaluation des objectifs d'apprentissage
 
 # Aidez les collaborateurs à développer leurs compétences
+En tant que manager, vous devez préparer le terrain pour que la société reste performante. Une fois les opportunités de développement identifiées, managers et collaborateurs travaillent ensemble pour les planifier et les mettre en oeuvre.
+Etapes clefs : 
+1. **Rencontrez vos collaborateurs et discutez avec eux de leur carrière**
+2. **Identifiez les points forts et les points faibles de vos em**
