@@ -17,4 +17,9 @@ Il s'agit d'un développement personnel, vous ne pouvez pas en assumer toute la 
 
 # Comprendre l'importance du développement des compétences
 Le *Développement des compétences* est différent de la *formation*. 
-La formation est l'enseignement des savoi
+La formation est l'enseignement des savoirs-faire nécessaires à l'accomplissement d'une tâche.
+Le développement des compétences fait référence à du long-terme plutôt que du court terme.
+
+- Les collaborateurs ont peut-être des lacunes à combler
+- Les collaborateurs qui travaillent de façon intelligente sont les meilleurs.
+- Quelqu'un doit être préparé à prendre votre place.
