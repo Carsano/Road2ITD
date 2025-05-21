@@ -33,3 +33,5 @@ Soyez visionnaire, n'attendez pas que le besoin se fasse ressentir.
 - Ressources nécessaires pour atteindre les objectifs d'apprentissage
 - Echéance pour la réalisation de chaque objectif d'apprentissage
 - Critères d'évaluation des objectifs d'apprentissage
+
+# Aidez les collaborateurs à développer leurs compétences
