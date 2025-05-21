@@ -40,7 +40,10 @@ Etapes clefs :
 1. **Rencontrez vos collaborateurs et discutez avec eux de leur carrière**
 	Cela permet de découvrir les ambitions de vos collaborateurs
 2. **Identifiez les points forts et les points faibles de vos collaborateurs**
-	
+	Cela permet de donner un point de départ pour le développement des futurs compétences
 3. **Evaluez les compétences actuelles de vos collaborateurs**
+	Cela permet de découvrir le potentiel
 4. **Elaborez des plans d'évolution de carrière**
+	Vu précédement, cela permet de mettre en action
 5. **Respectez les accords et veillez à ce qu'ils soient respectés par les collaborateurs**
+	Evaluez les progrès régulièrement
