@@ -28,3 +28,6 @@ Le développement des compétences fait référence à du long-terme plutôt que
 - Le défi est stimulant pour vos collaborateurs
 
 # Elaborer des plans d'évolution de carrière
+Soyez visionnaire, n'attendez pas que le besoin se fasse ressentir.
+- Objectifs d'apprentissage spécifiques
+- Resso
