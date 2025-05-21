@@ -63,3 +63,9 @@ N'attendez pas l'évaluation annuelle, 2 à 4 fois par an.
 10. Lui permettre de vous suivre pendant toute une journée de travail.
 
 # Maîtriser le processus de mentorat
+Le plus souvent, un mentor n'est pas le manager.
+- Expliquer le véritable fonctionnement de la société
+- Enseigner par l'exemple
+- Faire des suggestions de développement : Il peut vous orienter vers des compétences qui ne font pas partie de votre plan d'évolution de carrière
+- Faire part d'informations importantes
+- Orienter vers les débouchés
