@@ -2,7 +2,7 @@
 tags:
   - Management
 ---
-<<< [[CH6. Etre un bon coach]] |
+<<< [[CH6. Etre un bon coach]] | [[CH8. Fixer des objectifs facilement]] >>>
 
 # Introduction
 - Comprendre l'importance du développement des compétences
@@ -77,3 +77,8 @@ Lors de périodes difficiles, le développement des compétences devient inconto
 # Avoir peur de la compétence des autres
 Une des préoccupations du manager est de se demander si il ne scie pas la branche sur laquelle il est assis.
 - Une entreprise est fondée sur une dynamique : pratiquer la rétention des talents et des compétences ne fera que vous condamnez à moyen voire à court terme
+- Faire grandir les personnes avec qui l'on travaille est gratifiant
+- C'est un moyen de forger de puissants réseaux
+- C'est un moyen de rester soi-même dans une dynamique d'apprentissage et de développement
+- Si votre propre manager chercher aussi à vous faire grandir, donnez-lui les clés pour y parvenir
+- Si ce n'est pas le cas, changez de manager voir d'entreprise
