@@ -72,4 +72,8 @@ Le plus souvent, un mentor n'est pas le manager.
 
 # Développement des compétences et réduction du personnel
 
-Lors de périodes difficiles, le développement des compétences devient incontournable car les société change et les collaborateurs vont surement devoir avoir de nouvelles responsabilités
+Lors de périodes difficiles, le développement des compétences devient incontournable car les société change et les collaborateurs vont surement devoir avoir de nouvelles responsabilités.
+
+# Avoir peur de la compétence des autres
+Une des préoccupations du manager est de se demander si il ne scie pas la branche sur laquelle il est assis.
+- Une entreprise est fondée sur une dynamique : pratiquer la rétention des talents et des compétences ne fera que vous condamnez à moyen voire à court terme
