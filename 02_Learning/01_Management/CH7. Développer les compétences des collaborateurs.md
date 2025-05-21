@@ -7,4 +7,8 @@ tags:
 # Introduction
 - Comprendre l'importance du développement des compétences
 - Elaborer des plans d'évolution de carrière
-- Développer le
+- Développer les compétences des collaborateurs
+- Maîtriser le processus de mentorat
+- Développer les compétences des salariés malgré la réduction du personnel
+
+>[!tip] Le développement des compétences des salariés n'est pas du au hasard mais à un effort conscient
