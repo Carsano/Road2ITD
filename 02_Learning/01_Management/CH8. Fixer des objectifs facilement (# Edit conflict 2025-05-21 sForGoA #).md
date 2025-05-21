@@ -12,4 +12,5 @@ aliases:
 - Effectuer un suivi
 - Déterminer les sources de pouvoir
 
->[!quote] Il n'est pas de vent favorable pour celui qui ne sait où il va.
+>[!quote] Il n'est pas bon vent pour celui qui ne sait où il va
+
