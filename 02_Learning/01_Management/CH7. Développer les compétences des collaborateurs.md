@@ -68,4 +68,8 @@ Le plus souvent, un mentor n'est pas le manager.
 - Enseigner par l'exemple
 - Faire des suggestions de développement : Il peut vous orienter vers des compétences qui ne font pas partie de votre plan d'évolution de carrière
 - Faire part d'informations importantes
-- Orienter vers les débouchés
+- Orienter vers les débouchés : Grande expérience des postes sans avenir ou des tremplins
+
+# Développement des compétences et réduction du personnel
+
+Lors de périodes difficiles, le développement des compétences devient incontournable car les société change et les collaborateurs vont surement devoir avoir de nouvelles responsabilités
