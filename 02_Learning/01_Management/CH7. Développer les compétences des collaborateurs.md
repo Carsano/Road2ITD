@@ -47,3 +47,10 @@ Etapes clefs :
 	Vu précédement, cela permet de mettre en action
 5. **Respectez les accords et veillez à ce qu'ils soient respectés par les collaborateurs**
 	Evaluez les progrès régulièrement
+
+N'attendez pas l'évaluation annuelle, 2 à 4 fois par an.
+
+## Les 10 meilleurs moyens de développer les compétences d'un employé
+1. Être le mentor de l'employé
+2. Lui demander de prendre des notes à votre place lors des réunions du personnel
+3. L'intégrer dans une équipe
