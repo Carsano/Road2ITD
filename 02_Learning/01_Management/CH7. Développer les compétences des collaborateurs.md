@@ -30,4 +30,6 @@ Le développement des compétences fait référence à du long-terme plutôt que
 # Elaborer des plans d'évolution de carrière
 Soyez visionnaire, n'attendez pas que le besoin se fasse ressentir.
 - Objectifs d'apprentissage spécifiques
-- Resso
+- Ressources nécessaires pour atteindre les objectifs d'apprentissage
+- Echéance pour la réalisation de chaque objectif d'apprentissage
+- Critères d'évaluation des objectifs d'apprentissage
