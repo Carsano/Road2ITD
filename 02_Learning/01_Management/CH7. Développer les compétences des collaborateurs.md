@@ -38,4 +38,9 @@ Soyez visionnaire, n'attendez pas que le besoin se fasse ressentir.
 En tant que manager, vous devez préparer le terrain pour que la société reste performante. Une fois les opportunités de développement identifiées, managers et collaborateurs travaillent ensemble pour les planifier et les mettre en oeuvre.
 Etapes clefs : 
 1. **Rencontrez vos collaborateurs et discutez avec eux de leur carrière**
-2. **Identifiez les points forts et les points faibles de vos em**
+	Cela permet de découvrir les ambitions de vos collaborateurs
+2. **Identifiez les points forts et les points faibles de vos collaborateurs**
+	
+3. **Evaluez les compétences actuelles de vos collaborateurs**
+4. **Elaborez des plans d'évolution de carrière**
+5. **Respectez les accords et veillez à ce qu'ils soient respectés par les collaborateurs**
