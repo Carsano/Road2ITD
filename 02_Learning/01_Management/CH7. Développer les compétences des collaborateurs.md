@@ -54,3 +54,12 @@ N'attendez pas l'évaluation annuelle, 2 à 4 fois par an.
 1. Être le mentor de l'employé
 2. Lui demander de prendre des notes à votre place lors des réunions du personnel
 3. L'intégrer dans une équipe
+4. Lui confier des tâches qui lui permettent de se dépasser
+5. Augmenter l'étendue et la difficulté de ses tâches
+6. L'envoyer à un séminaire
+7. L'emmener avec vous lorsque vous rendez visite à vos clients
+8. Le présenter aux cadres supérieurs de votre société et vous arranger pour qu'il travaille directement avec eux
+9. L'inviter à participer à une réunion de cadres en dehors de la société
+10. Lui permettre de vous suivre pendant toute une journée de travail.
+
+# Maîtriser le processus de mentorat
