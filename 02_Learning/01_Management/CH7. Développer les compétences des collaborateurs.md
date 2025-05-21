@@ -23,3 +23,8 @@ Le développement des compétences fait référence à du long-terme plutôt que
 - Les collaborateurs ont peut-être des lacunes à combler
 - Les collaborateurs qui travaillent de façon intelligente sont les meilleurs.
 - Quelqu'un doit être préparé à prendre votre place.
+- Tout le monde est gagnant
+- Vos collaborateurs méritent l'investissement = Moins de turnover
+- Le défi est stimulant pour vos collaborateurs
+
+# Elaborer des plans d'évolution de carrière
