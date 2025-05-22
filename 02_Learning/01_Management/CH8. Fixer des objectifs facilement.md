@@ -25,4 +25,7 @@ Il est aussi dangereux d'avoir trop d'objectifs que de ne pas en avoir du tout.
 - **Les objectifs donnent un sens à la vie professionnelle de chacun**
 
 # Définir des objectifs SMART
-- **Spécifiques** : clair et sans ambiguité. Les propos flous et sans ambigui
+- **Spécifiques** : clair et sans ambiguité. Les propos flous et sans ambiguitié n'ont pas leur place. Plus l'objectif est précis, plus il sera facile pour les collaborateurs de le comprendre
+- **Mesurable** : Cela permet de suivre la progression
+- **Accessible** : Ne pas mettre des objectifs trop élevé pour le niveau du collaborateur
+- **Réalisable** : (ou rattaché )
