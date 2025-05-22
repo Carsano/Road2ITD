@@ -13,3 +13,4 @@ aliases:
 - Déterminer les sources de pouvoir
 
 >[!quote] Il n'est pas de vent favorable pour celui qui ne sait où il va.
+
