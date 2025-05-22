@@ -28,4 +28,7 @@ Il est aussi dangereux d'avoir trop d'objectifs que de ne pas en avoir du tout.
 - **Spécifiques** : clair et sans ambiguité. Les propos flous et sans ambiguitié n'ont pas leur place. Plus l'objectif est précis, plus il sera facile pour les collaborateurs de le comprendre
 - **Mesurable** : Cela permet de suivre la progression
 - **Accessible** : Ne pas mettre des objectifs trop élevé pour le niveau du collaborateur
-- **Réalisable** : (ou rattaché )
+- **Réalisable** : (ou rattaché à un projet) , si cela ne peut pas rentrer dans le temps imparti on oublie
+- **Temporellement défini** : Un début, une fin, une durée spécifique
+
+Les objectifs SMART doivent être liés aux rôles de vos employés dans la société, ils doivent être fondés sur des valeurs et doivent être le plus sim
