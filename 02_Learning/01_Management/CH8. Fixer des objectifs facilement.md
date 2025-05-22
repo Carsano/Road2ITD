@@ -43,3 +43,9 @@ Plus vous avez d'objectifs, moins vous avez de temps pour les atteindre.
 
 # Communiquer autant que possible
 L'important est de communiquer sur les objectifs autant que possible auprès des collaborateurs.
+Dans un projet ou une vision, il faut communiquer le plus tôt et le plus souvent possible.
+
+Demandez aux collaborateurs d'élaborer et de vous présentez un plan pour atteindre leurs objectifs.
+
+# Effectuer un suivi des objectifs
+Il peut être difficile de ne pas négli
