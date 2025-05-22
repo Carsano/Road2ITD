@@ -38,4 +38,8 @@ Les objectifs SMART doivent être liés aux rôles de vos employés dans la soci
 Plus vous avez d'objectifs, moins vous avez de temps pour les atteindre.
 - **Se concentrer sur deux ou trois objectifs**
 - **Choisissez les objectifs les plus pertinents**
-- **Sélectionnez les obke**
+- **Sélectionnez les objectifs qui correspondent le mieux à la mission**
+- **Revoyez régulièrement vos objectifs et modifiez-les si nécessaire**
+
+# Communiquer autant que possible
+L'important est de communiquer sur les objectifs autant que possible auprès des collaborateurs.
