@@ -16,9 +16,13 @@ aliases:
 
 Il est aussi dangereux d'avoir trop d'objectifs que de ne pas en avoir du tout.
 
+# Rattacher vos objectifs à votre projet
 5 bonnes raisons de se donner des objectifs:
 - **Les objectifs donnent une orientation**
 - **Les objectifs permettent d'évaluer la progression** : donne des repères tout au long du chemin
 - **Les objectifs rendent le projet réalisable** : Cela permet de découper le projet en plusieurs sous-tâches
 - **Les objectifs clarifient le rôle de chacun** 
 - **Les objectifs donnent un sens à la vie professionnelle de chacun**
+
+# Définir des objectifs SMART
+- **Spécifiques** : clair et sans ambiguité. Les propos flous et sans ambigui
