@@ -48,4 +48,11 @@ Dans un projet ou une vision, il faut communiquer le plus tôt et le plus souven
 Demandez aux collaborateurs d'élaborer et de vous présentez un plan pour atteindre leurs objectifs.
 
 # Effectuer un suivi des objectifs
-Il peut être difficile de ne pas négli
+Il peut être difficile de ne pas négliger ses objectifs surtout avec beaucoup de distractions:
+- Combien de fois avez-vous été interrompu par votre patron dès le matin ?
+- Combien de fois êtes-vous interrompu par un employé qui a un pb ?
+- Réunions à rallonge
+
+> [!warning] Ne pas confondre *activité* et *résultats*
+
+Garde
