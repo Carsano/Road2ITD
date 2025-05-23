@@ -56,3 +56,5 @@ Il peut être difficile de ne pas négliger ses objectifs surtout avec beaucoup 
 > [!warning] Ne pas confondre *activité* et *résultats*
 
 Gardez en tête la règle des 20/80
+- **Donnez la priorité aux priorités**
+- **Org**
