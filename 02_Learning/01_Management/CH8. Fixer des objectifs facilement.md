@@ -57,4 +57,9 @@ Il peut être difficile de ne pas négliger ses objectifs surtout avec beaucoup 
 
 Gardez en tête la règle des 20/80
 - **Donnez la priorité aux priorités**
-- **Org**
+- **Organisez-vous** : plus de temps à travailler plutôt qu'à se demander quoi faire
+- **Sachez dire non** : Pas d'activités inutiles "En quoi cela m'aide à atteindre mes objectifs ?"
+
+# Déterminer les sources de pouvoir
+5 grandes sources de pouvoir :
+- **Pouvoir personnel**: Issu de votre pers
