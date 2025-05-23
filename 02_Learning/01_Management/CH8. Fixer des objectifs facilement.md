@@ -62,4 +62,8 @@ Gardez en tête la règle des 20/80
 
 # Déterminer les sources de pouvoir
 5 grandes sources de pouvoir :
-- **Pouvoir personnel**: Issu de votre pers
+- **Pouvoir personnel**: Issu de votre personnalité. Force de vos convictions, votre charisme, votre aptitude à communiquer
+- **Pouvoir relationnel**: Via les relations que l'on entretien au travail
+- **Pouvoir hiérarchique**: Découle directement du rang ou de la hiérarchie
+- **Pouvoir de l'expertise**: Provient de l'expertise acquise avec l'expérience
+- **Pouvoir fonctionnel**: Provient de la fonction ou des tâches dont vous avez
