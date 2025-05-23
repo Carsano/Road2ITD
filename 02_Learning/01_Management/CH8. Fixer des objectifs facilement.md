@@ -66,4 +66,9 @@ Gardez en tête la règle des 20/80
 - **Pouvoir relationnel**: Via les relations que l'on entretien au travail
 - **Pouvoir hiérarchique**: Découle directement du rang ou de la hiérarchie
 - **Pouvoir de l'expertise**: Provient de l'expertise acquise avec l'expérience
-- **Pouvoir fonctionnel**: Provient de la fonction ou des tâches dont vous avez
+- **Pouvoir fonctionnel**: Provient de la fonction ou des tâches dont vous avez la charge.
+Il y a toujours des moyens d'améliorer ses sources de pouvoir, par exemple pour le pouvoir personnel, vous pouvez participer à un séminaire pour apprendre à mieux parler en public.
+Soyez conscient de vos sources de pouvoir.
+
+## Top-down ou bottom-up
+La rédaction des
