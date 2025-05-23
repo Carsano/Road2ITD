@@ -71,4 +71,7 @@ Il y a toujours des moyens d'améliorer ses sources de pouvoir, par exemple pour
 Soyez conscient de vos sources de pouvoir.
 
 ## Top-down ou bottom-up
-La rédaction des
+La rédaction des objectifs peut se faire des deux manières en fonction :
+- Du niveau de connaissance pour élaborer les objectifs
+- Des possibilités de négocier les objectifs
+- Du temps disponible.
