@@ -18,6 +18,8 @@ Le but d'un suivi de performance n'est pas de sanctionner les collaborateurs mai
 En quantifiant les objectifs, tout le monde saura comment il est évalué. Exemple avec des objectifs et des critères d'évaluation
 
 
-|     |     |
-| --- | --- |
-|     |     |
+| Objectif                                                                     | Critère d'évaluation                                                                |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Elaborer et diffuser un bulletin avant la fin du deuxième trimestre          | La date précise à laquelle le bulletin doit être distribué                          |
+| Augmenter la production de cadres de VTT de 5 pièces par jour et par employé | Le nombre exact de cadres de VTT produits par jour et par employé                   |
+| Augmenter les bénéfices de 20% au cours de l'année 2025                      | Le pourcentage d'augmentation des bénéfices du 1er janvier 2025 au 31 décembre 2025 |
