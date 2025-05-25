@@ -48,10 +48,9 @@ Un exemple est l'utilisation d'un diagramme de Gantt. En un clin d'oeil, on visu
 Un autre exemple peut être l'organigramme des tâches
 ```mermaid
 graph LR
-    A(( )) -- Revoir les dépenses de l'année précédente --> C((Circle))
-    B(( )) -- Analyser les dépenses de
-    A --> C(Round Rect)
-    B --> D{Rhombus}
-    C --> D
+    A(( )) -- Revoir les dépenses de l'année précédente --> C(( ))
+    B(( )) -- Analyser les dépenses de l'exercice en cours 5j --> C
+    C --Rencontrer le personnel 15j--> E(( ))
+    D(( )) --Revoir le statut du personnel 10j --> E(( ))
 
 ```
