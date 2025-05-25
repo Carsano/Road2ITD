@@ -3,7 +3,7 @@ tags:
   - Management
 aliases:
 ---
-<<< [[CH8. Fixer des objectifs facilement]] |
+<<< [[CH8. Fixer des objectifs facilement]] | [[CH10. Maitriser l évaluation des performances]] >>>
 # Introduction
 - Quantifier vos objectifs
 - Mettre au point un système de suivi des performances

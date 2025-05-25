@@ -1,5 +1,0 @@
----
-tags:
-  - Management
-aliases:
----
