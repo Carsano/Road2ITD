@@ -24,3 +24,8 @@ En quantifiant les objectifs, tout le monde saura comment il est évalué. Exemp
 | Augmenter la production de cadres de VTT de 5 pièces par jour et par employé | Le nombre exact de cadres de VTT produits par jour et par employé                   |
 | Augmenter les bénéfices de 20% au cours de l'année 2025                      | Le pourcentage d'augmentation des bénéfices du 1er janvier 2025 au 31 décembre 2025 |
 Il est tout aussi important de trouver des critères tout au long du chemin.
+
+Toujours donner du feedback positif pour encourager les performances et non du feedback négatif.
+Au lieu d'évaluer le nombre de jours de retard, il est préférable d'évaluer le nombre de jours où le travail a été effectué à temps.
+
+>[]
