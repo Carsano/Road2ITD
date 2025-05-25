@@ -38,3 +38,7 @@ Les échéances permettent de mesurer la vitesse du chemin parcouru par rapport 
 Les actions sont les tâches individuelles que les collaborateurs effectuent pour passer d'une échéance à une autre. Lors de la réalisation du plan, il est important de noter chaque action
 
 ## Hiérarchiser les actions
+Cela permet de donner un cadre logique pour la réalisation de l'objectif. Attention cependant à ne pas rendre ce système trop rigide, plusieurs chemins peuvent amener au même résultat.
+
+## Définir un calendrier
+Définir les le temps alloué à chaque action pour atteindre les échéances permet de rendre les actions concrètes et de vérifier leur faisabilité.
