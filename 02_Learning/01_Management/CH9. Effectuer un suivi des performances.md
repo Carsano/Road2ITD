@@ -32,4 +32,9 @@ Au lieu d'évaluer le nombre de jours de retard, il est préférable d'évaluer 
 
 # Mettre au point un système de suivi de la performance
 ## Fixer des échéances
-Les échéances permettent de mesurer la vitesse du chemin parcouru par rapport à l'objectif. Elles permettent 
+Les échéances permettent de mesurer la vitesse du chemin parcouru par rapport à l'objectif. Elles permettent en un clin d'oeil de savoir si les projets sont en retard ou en avance.
+
+## Engager des actions
+Les actions sont les tâches individuelles que les collaborateurs effectuent pour passer d'une échéance à une autre. Lors de la réalisation du plan, il est important de noter chaque action
+
+## Hiérarchiser les actions
