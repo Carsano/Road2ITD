@@ -44,4 +44,5 @@ Cela permet de donner un cadre logique pour la réalisation de l'objectif. Atten
 Définir les le temps alloué à chaque action pour atteindre les échéances permet de rendre les actions concrètes et de vérifier leur faisabilité.
 
 # Illustrer les résultats par un graphique
-Un exemple est l'utilisation d'un diagramme de Gantt. En un clin d'oeil, 
+Un exemple est l'utilisation d'un diagramme de Gantt. En un clin d'oeil, on visualise la progression et la projection.
+Un autre exemple peut être l'organigramme des tâches
