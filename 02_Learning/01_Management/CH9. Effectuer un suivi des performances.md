@@ -14,7 +14,7 @@ aliases:
 Il faut trouver un juste milieu entre le système bureaucratique et le manque de vigilance.
 Le but d'un suivi de performance n'est pas de sanctionner les collaborateurs mais de les aider à respecter leurs engagements et de déterminer s'ils ont besoin de ressources.
 
-# Suivre la progression de vos collaborateurs
+## Suivre la progression de vos collaborateurs
 En quantifiant les objectifs, tout le monde saura comment il est évalué. Exemple avec des objectifs et des critères d'évaluation
 
 
@@ -28,4 +28,8 @@ Il est tout aussi important de trouver des critères tout au long du chemin.
 Toujours donner du feedback positif pour encourager les performances et non du feedback négatif.
 Au lieu d'évaluer le nombre de jours de retard, il est préférable d'évaluer le nombre de jours où le travail a été effectué à temps.
 
->[]
+>[!tip] Le meilleur moyen d'obtenir des résultats consiste à faire en sorte que vos employés prennent conscience chaque jour de leurs progrès
+
+# Mettre au point un système de suivi de la performance
+## Fixer des échéances
+Les échéances permettent de mesurer la vitesse du chemin parcouru par rapport à l'objectif. Elles permettent 
