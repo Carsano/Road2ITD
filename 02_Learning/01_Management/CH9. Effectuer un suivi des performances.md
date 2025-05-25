@@ -62,4 +62,7 @@ graph TB
 - **Comparer les résultats à vos attentes**
 - **Consignez les résultats** : Inscrivez les résultats dans un fichier de suivi de perf pour les collaborateurs
 - **Félicitez, coachez ou conseillez vos collaborateurs**
-Si l'objectif n'a pas été atteinte, demandez po
+Si l'objectif n'a pas été atteinte, demandez pourquoi, essayez de comprendre ce qui coince.
+
+L'obsession lors de la planification d'un projet doit être de **ne pas oublier des tâches!**
+
