@@ -46,3 +46,12 @@ Définir les le temps alloué à chaque action pour atteindre les échéances pe
 # Illustrer les résultats par un graphique
 Un exemple est l'utilisation d'un diagramme de Gantt. En un clin d'oeil, on visualise la progression et la projection.
 Un autre exemple peut être l'organigramme des tâches
+```mermaid
+graph LR
+    A(( )) -- Revoir les dépenses de l'année précédente --> C((Circle))
+    B(( )) -- Analyser les dépenses de
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
+
+```
