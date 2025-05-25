@@ -48,10 +48,10 @@ Un exemple est l'utilisation d'un diagramme de Gantt. En un clin d'oeil, on visu
 Un autre exemple peut être l'organigramme des tâches
 ```mermaid
 graph TB
-    A(( )) -- Revoir les dépenses de l'année précédente --> C(( ))
-    B(( )) -- Analyser les dépenses de l'exercice en cours 5j --> C
+    A@{ shape: sm-circ} -- Revoir les dépenses de l'année précédente --> C@{ shape: sm-circ}
+    B@{ shape: sm-circ} -- Analyser les dépenses de l'exercice en cours 5j --> C
     C --Rencontrer le personnel 15j--> E(( ))
-    D(( )) --Revoir le statut du personnel 10j --> E(( ))
+    D@{ shape: sm-circ} --Revoir le statut du personnel 10j --> E(( ))
     E --Elaborer un projet de budget 5j --> F(( ))
     F --Revoir le projet de budget 5j --> G(( ))
 
