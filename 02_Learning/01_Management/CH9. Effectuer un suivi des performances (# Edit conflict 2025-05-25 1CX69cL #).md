@@ -60,6 +60,4 @@ graph TB
 
 # Evaluer les résultats
 - **Comparer les résultats à vos attentes**
-- **Consignez les résultats** : Inscrivez les résultats dans un fichier de suivi de perf pour les collaborateurs
-- **Félicitez, coachez ou conseillez vos collaborateurs**
-Si l'objectif n'a pas été atteinte, demandez po
+- **Consignez les résultats** : Inscirv
