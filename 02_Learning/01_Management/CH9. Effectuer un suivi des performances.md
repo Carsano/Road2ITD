@@ -50,10 +50,10 @@ Un autre exemple peut être l'organigramme des tâches
 graph TB
     A@{ shape: sm-circ} -- Revoir les dépenses de l'année précédente --> C@{ shape: sm-circ}
     B@{ shape: sm-circ} -- Analyser les dépenses de l'exercice en cours 5j --> C
-    C --Rencontrer le personnel 15j--> E(( ))
-    D@{ shape: sm-circ} --Revoir le statut du personnel 10j --> E(( ))
-    E --Elaborer un projet de budget 5j --> F(( ))
-    F --Revoir le projet de budget 5j --> G(( ))
+    C --Rencontrer le personnel 15j--> E@{ shape: sm-circ}
+    D@{ shape: sm-circ} --Revoir le statut du personnel 10j --> E
+    E --Elaborer un projet de budget 5j --> F@{ shape: sm-circ}
+    F --Revoir le projet de budget 5j --> G@{ shape: sm-circ}
 
 
 ```
