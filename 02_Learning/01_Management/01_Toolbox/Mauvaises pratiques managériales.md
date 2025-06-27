@@ -10,3 +10,4 @@ Note liée : [[Bonnes pratiques Managériales]]
 - Interrompre
 - Poser des questions fermées
 - Ne pas communiquer clairement
+- Donner la solution lors d'un problème (ne pas faire réfléchir)
